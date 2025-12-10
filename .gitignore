@@ -1,0 +1,14 @@
+# Model weights
+*.pt
+*.pth
+*.bin
+
+# Data
+*.csv
+ucu-nlp-2025/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+*.ipynb_checkpoints/
