@@ -2,12 +2,12 @@ index,emotion,category
 0,Anger,Complaint / Dissatisfaction
 1,Happiness,Gratitude / Positive Feedback
 2,Happiness,Gratitude / Positive Feedback
-3,Sadness,Complaint / Dissatisfaction
+3,Anger,Gratitude / Positive Feedback
 4,Anger,Complaint / Dissatisfaction
 5,Happiness,Gratitude / Positive Feedback
 6,Anger,Complaint / Dissatisfaction
 7,Happiness,Gratitude / Positive Feedback
-8,Anger,Complaint / Dissatisfaction
+8,Sadness,Complaint / Dissatisfaction
 9,Happiness,Gratitude / Positive Feedback
 10,Anger,Complaint / Dissatisfaction
 11,Anger,Complaint / Dissatisfaction
@@ -15,29 +15,29 @@ index,emotion,category
 13,Anger,Complaint / Dissatisfaction
 14,Anger,Complaint / Dissatisfaction
 15,Neutral,Question / Request for Help
-16,Sadness,Question / Request for Help
+16,Neutral,Question / Request for Help
 17,Neutral,Question / Request for Help
 18,Happiness,Gratitude / Positive Feedback
 19,Happiness,Gratitude / Positive Feedback
 20,Happiness,Gratitude / Positive Feedback
 21,Anger,Complaint / Dissatisfaction
-22,Anger,Complaint / Dissatisfaction
+22,Disgust,Complaint / Dissatisfaction
 23,Anger,Complaint / Dissatisfaction
 24,Happiness,Gratitude / Positive Feedback
 25,Anger,Complaint / Dissatisfaction
-26,Sadness,Complaint / Dissatisfaction
+26,Happiness,Gratitude / Positive Feedback
 27,Happiness,Gratitude / Positive Feedback
 28,Anger,Complaint / Dissatisfaction
 29,Happiness,Gratitude / Positive Feedback
 30,Happiness,Gratitude / Positive Feedback
 31,Happiness,Gratitude / Positive Feedback
-32,Happiness,Gratitude / Positive Feedback
+32,Sadness,Gratitude / Positive Feedback
 33,Happiness,Gratitude / Positive Feedback
 34,Anger,Complaint / Dissatisfaction
 35,Happiness,Gratitude / Positive Feedback
 36,Happiness,Gratitude / Positive Feedback
 37,Happiness,Gratitude / Positive Feedback
-38,Anger,Complaint / Dissatisfaction
+38,Happiness,Gratitude / Positive Feedback
 39,Happiness,Gratitude / Positive Feedback
 40,Happiness,Gratitude / Positive Feedback
 41,Anger,Complaint / Dissatisfaction
@@ -45,10 +45,10 @@ index,emotion,category
 43,Anger,Complaint / Dissatisfaction
 44,Happiness,Gratitude / Positive Feedback
 45,Happiness,Gratitude / Positive Feedback
-46,Anger,Gratitude / Positive Feedback
+46,Happiness,Suggestion / Idea
 47,Happiness,Gratitude / Positive Feedback
 48,Happiness,Gratitude / Positive Feedback
-49,Neutral,Suggestion / Idea
+49,Happiness,Suggestion / Idea
 50,Anger,Complaint / Dissatisfaction
 51,Happiness,Gratitude / Positive Feedback
 52,Anger,Complaint / Dissatisfaction
@@ -66,7 +66,7 @@ index,emotion,category
 64,Happiness,Gratitude / Positive Feedback
 65,Happiness,Gratitude / Positive Feedback
 66,Happiness,Gratitude / Positive Feedback
-67,Sadness,Neutral Comment
+67,Happiness,Gratitude / Positive Feedback
 68,Happiness,Gratitude / Positive Feedback
 69,Happiness,Gratitude / Positive Feedback
 70,Happiness,Gratitude / Positive Feedback
@@ -74,21 +74,21 @@ index,emotion,category
 72,Neutral,Neutral Comment
 73,Happiness,Gratitude / Positive Feedback
 74,Happiness,Gratitude / Positive Feedback
-75,Anger,Complaint / Dissatisfaction
+75,Happiness,Gratitude / Positive Feedback
 76,Happiness,Gratitude / Positive Feedback
-77,Happiness,Gratitude / Positive Feedback
+77,Neutral,Question / Request for Help
 78,Anger,Complaint / Dissatisfaction
-79,Anger,Complaint / Dissatisfaction
+79,Happiness,Gratitude / Positive Feedback
 80,Neutral,Question / Request for Help
 81,Happiness,Gratitude / Positive Feedback
-82,Anger,Complaint / Dissatisfaction
+82,Happiness,Gratitude / Positive Feedback
 83,Happiness,Gratitude / Positive Feedback
 84,Happiness,Gratitude / Positive Feedback
 85,Happiness,Gratitude / Positive Feedback
 86,Happiness,Gratitude / Positive Feedback
 87,Happiness,Gratitude / Positive Feedback
 88,Happiness,Gratitude / Positive Feedback
-89,Sadness,Complaint / Dissatisfaction
+89,Happiness,Gratitude / Positive Feedback
 90,Happiness,Gratitude / Positive Feedback
 91,Anger,Complaint / Dissatisfaction
 92,Anger,Complaint / Dissatisfaction
@@ -104,24 +104,24 @@ index,emotion,category
 102,Anger,Complaint / Dissatisfaction
 103,Happiness,Gratitude / Positive Feedback
 104,Happiness,Gratitude / Positive Feedback
-105,Surprise,Complaint / Dissatisfaction
+105,Happiness,Gratitude / Positive Feedback
 106,Happiness,Gratitude / Positive Feedback
-107,Anger,Question / Request for Help
+107,Anger,Complaint / Dissatisfaction
 108,Anger,Complaint / Dissatisfaction
 109,Happiness,Gratitude / Positive Feedback
 110,Anger,Complaint / Dissatisfaction
 111,Happiness,Gratitude / Positive Feedback
 112,Happiness,Gratitude / Positive Feedback
-113,Neutral,Suggestion / Idea
+113,Happiness,Gratitude / Positive Feedback
 114,Anger,Complaint / Dissatisfaction
 115,Happiness,Gratitude / Positive Feedback
-116,Sadness,Gratitude / Positive Feedback
+116,Happiness,Gratitude / Positive Feedback
 117,Happiness,Gratitude / Positive Feedback
 118,Happiness,Gratitude / Positive Feedback
 119,Happiness,Gratitude / Positive Feedback
 120,Happiness,Gratitude / Positive Feedback
 121,Anger,Complaint / Dissatisfaction
-122,Happiness,Gratitude / Positive Feedback
+122,Anger,Complaint / Dissatisfaction
 123,Anger,Complaint / Dissatisfaction
 124,Anger,Complaint / Dissatisfaction
 125,Happiness,Gratitude / Positive Feedback
@@ -141,7 +141,7 @@ index,emotion,category
 139,Happiness,Gratitude / Positive Feedback
 140,Anger,Complaint / Dissatisfaction
 141,Happiness,Gratitude / Positive Feedback
-142,Happiness,Suggestion / Idea
+142,Happiness,Gratitude / Positive Feedback
 143,Anger,Complaint / Dissatisfaction
 144,Happiness,Gratitude / Positive Feedback
 145,Happiness,Gratitude / Positive Feedback
@@ -154,19 +154,19 @@ index,emotion,category
 152,Happiness,Gratitude / Positive Feedback
 153,Happiness,Gratitude / Positive Feedback
 154,Happiness,Gratitude / Positive Feedback
-155,Sadness,Complaint / Dissatisfaction
+155,Sadness,Gratitude / Positive Feedback
 156,Anger,Complaint / Dissatisfaction
 157,Anger,Complaint / Dissatisfaction
 158,Anger,Complaint / Dissatisfaction
 159,Anger,Complaint / Dissatisfaction
-160,Anger,Complaint / Dissatisfaction
+160,Happiness,Gratitude / Positive Feedback
 161,Happiness,Gratitude / Positive Feedback
 162,Happiness,Gratitude / Positive Feedback
-163,Anger,Complaint / Dissatisfaction
+163,Happiness,Gratitude / Positive Feedback
 164,Happiness,Gratitude / Positive Feedback
-165,Anger,Question / Request for Help
-166,Sadness,Neutral Comment
-167,Neutral,Suggestion / Idea
+165,Neutral,Question / Request for Help
+166,Happiness,Gratitude / Positive Feedback
+167,Happiness,Suggestion / Idea
 168,Anger,Complaint / Dissatisfaction
 169,Happiness,Gratitude / Positive Feedback
 170,Happiness,Gratitude / Positive Feedback
@@ -174,14 +174,14 @@ index,emotion,category
 172,Happiness,Gratitude / Positive Feedback
 173,Happiness,Gratitude / Positive Feedback
 174,Happiness,Gratitude / Positive Feedback
-175,Surprise,Complaint / Dissatisfaction
+175,Happiness,Gratitude / Positive Feedback
 176,Happiness,Gratitude / Positive Feedback
 177,Neutral,Suggestion / Idea
 178,Happiness,Gratitude / Positive Feedback
 179,Happiness,Gratitude / Positive Feedback
 180,Neutral,Question / Request for Help
 181,Anger,Complaint / Dissatisfaction
-182,Sadness,Complaint / Dissatisfaction
+182,Sadness,Gratitude / Positive Feedback
 183,Happiness,Gratitude / Positive Feedback
 184,Happiness,Gratitude / Positive Feedback
 185,Happiness,Gratitude / Positive Feedback
@@ -190,7 +190,7 @@ index,emotion,category
 188,Happiness,Gratitude / Positive Feedback
 189,Anger,Complaint / Dissatisfaction
 190,Happiness,Gratitude / Positive Feedback
-191,Happiness,Gratitude / Positive Feedback
+191,Neutral,Gratitude / Positive Feedback
 192,Sadness,Complaint / Dissatisfaction
 193,Happiness,Gratitude / Positive Feedback
 194,Happiness,Gratitude / Positive Feedback
@@ -200,10 +200,10 @@ index,emotion,category
 198,Happiness,Gratitude / Positive Feedback
 199,Happiness,Gratitude / Positive Feedback
 200,Happiness,Gratitude / Positive Feedback
-201,Sadness,Complaint / Dissatisfaction
+201,Happiness,Gratitude / Positive Feedback
 202,Happiness,Gratitude / Positive Feedback
 203,Happiness,Gratitude / Positive Feedback
-204,Neutral,Neutral Comment
+204,Neutral,Suggestion / Idea
 205,Happiness,Gratitude / Positive Feedback
 206,Happiness,Gratitude / Positive Feedback
 207,Happiness,Gratitude / Positive Feedback
@@ -214,15 +214,15 @@ index,emotion,category
 212,Happiness,Gratitude / Positive Feedback
 213,Happiness,Gratitude / Positive Feedback
 214,Happiness,Gratitude / Positive Feedback
-215,Sadness,Complaint / Dissatisfaction
+215,Happiness,Gratitude / Positive Feedback
 216,Happiness,Gratitude / Positive Feedback
 217,Happiness,Gratitude / Positive Feedback
 218,Happiness,Gratitude / Positive Feedback
-219,Anger,Complaint / Dissatisfaction
+219,Happiness,Gratitude / Positive Feedback
 220,Neutral,Question / Request for Help
 221,Happiness,Gratitude / Positive Feedback
 222,Happiness,Gratitude / Positive Feedback
-223,Neutral,Suggestion / Idea
+223,Happiness,Suggestion / Idea
 224,Neutral,Question / Request for Help
 225,Happiness,Gratitude / Positive Feedback
 226,Happiness,Gratitude / Positive Feedback
@@ -234,10 +234,10 @@ index,emotion,category
 232,Happiness,Gratitude / Positive Feedback
 233,Happiness,Gratitude / Positive Feedback
 234,Happiness,Gratitude / Positive Feedback
-235,Neutral,Neutral Comment
+235,Happiness,Gratitude / Positive Feedback
 236,Happiness,Gratitude / Positive Feedback
 237,Anger,Complaint / Dissatisfaction
-238,Neutral,Neutral Comment
+238,Happiness,Gratitude / Positive Feedback
 239,Happiness,Gratitude / Positive Feedback
 240,Anger,Complaint / Dissatisfaction
 241,Neutral,Suggestion / Idea
@@ -247,15 +247,15 @@ index,emotion,category
 245,Happiness,Gratitude / Positive Feedback
 246,Happiness,Gratitude / Positive Feedback
 247,Happiness,Gratitude / Positive Feedback
-248,Neutral,Neutral Comment
+248,Neutral,Gratitude / Positive Feedback
 249,Happiness,Gratitude / Positive Feedback
 250,Anger,Complaint / Dissatisfaction
 251,Happiness,Gratitude / Positive Feedback
 252,Happiness,Gratitude / Positive Feedback
 253,Anger,Complaint / Dissatisfaction
 254,Happiness,Gratitude / Positive Feedback
-255,Neutral,Neutral Comment
-256,Anger,Complaint / Dissatisfaction
+255,Sadness,Suggestion / Idea
+256,Happiness,Suggestion / Idea
 257,Happiness,Gratitude / Positive Feedback
 258,Happiness,Gratitude / Positive Feedback
 259,Happiness,Gratitude / Positive Feedback
@@ -265,72 +265,72 @@ index,emotion,category
 263,Happiness,Gratitude / Positive Feedback
 264,Happiness,Gratitude / Positive Feedback
 265,Neutral,Neutral Comment
-266,Neutral,Neutral Comment
+266,Happiness,Gratitude / Positive Feedback
 267,Happiness,Gratitude / Positive Feedback
 268,Happiness,Gratitude / Positive Feedback
 269,Happiness,Gratitude / Positive Feedback
 270,Happiness,Gratitude / Positive Feedback
 271,Anger,Complaint / Dissatisfaction
 272,Neutral,Question / Request for Help
-273,Anger,Complaint / Dissatisfaction
-274,Sadness,Neutral Comment
+273,Neutral,Suggestion / Idea
+274,Sadness,Complaint / Dissatisfaction
 275,Happiness,Gratitude / Positive Feedback
 276,Anger,Complaint / Dissatisfaction
 277,Neutral,Question / Request for Help
 278,Happiness,Gratitude / Positive Feedback
-279,Sadness,Complaint / Dissatisfaction
-280,Anger,Complaint / Dissatisfaction
+279,Neutral,Suggestion / Idea
+280,Disgust,Complaint / Dissatisfaction
 281,Happiness,Gratitude / Positive Feedback
-282,Anger,Complaint / Dissatisfaction
-283,Anger,Complaint / Dissatisfaction
+282,Anger,Gratitude / Positive Feedback
+283,Neutral,Complaint / Dissatisfaction
 284,Happiness,Gratitude / Positive Feedback
 285,Happiness,Gratitude / Positive Feedback
 286,Anger,Complaint / Dissatisfaction
 287,Happiness,Gratitude / Positive Feedback
-288,Sadness,Neutral Comment
+288,Sadness,Complaint / Dissatisfaction
 289,Happiness,Gratitude / Positive Feedback
 290,Anger,Complaint / Dissatisfaction
 291,Happiness,Gratitude / Positive Feedback
 292,Anger,Complaint / Dissatisfaction
 293,Anger,Complaint / Dissatisfaction
-294,Neutral,Neutral Comment
+294,Neutral,Question / Request for Help
 295,Neutral,Question / Request for Help
 296,Happiness,Gratitude / Positive Feedback
 297,Anger,Complaint / Dissatisfaction
 298,Anger,Complaint / Dissatisfaction
 299,Happiness,Gratitude / Positive Feedback
 300,Anger,Complaint / Dissatisfaction
-301,Sadness,Neutral Comment
-302,Surprise,Gratitude / Positive Feedback
+301,Happiness,Gratitude / Positive Feedback
+302,Happiness,Gratitude / Positive Feedback
 303,Happiness,Gratitude / Positive Feedback
 304,Happiness,Gratitude / Positive Feedback
 305,Anger,Complaint / Dissatisfaction
 306,Happiness,Gratitude / Positive Feedback
 307,Happiness,Gratitude / Positive Feedback
-308,Sadness,Complaint / Dissatisfaction
+308,Anger,Complaint / Dissatisfaction
 309,Happiness,Gratitude / Positive Feedback
 310,Happiness,Gratitude / Positive Feedback
-311,Anger,Complaint / Dissatisfaction
+311,Anger,Suggestion / Idea
 312,Happiness,Gratitude / Positive Feedback
 313,Anger,Complaint / Dissatisfaction
 314,Sadness,Neutral Comment
-315,Sadness,Gratitude / Positive Feedback
-316,Surprise,Gratitude / Positive Feedback
+315,Happiness,Gratitude / Positive Feedback
+316,Happiness,Gratitude / Positive Feedback
 317,Happiness,Gratitude / Positive Feedback
 318,Happiness,Gratitude / Positive Feedback
 319,Happiness,Gratitude / Positive Feedback
 320,Happiness,Gratitude / Positive Feedback
 321,Neutral,Question / Request for Help
-322,Neutral,Suggestion / Idea
-323,Sadness,Complaint / Dissatisfaction
+322,Anger,Complaint / Dissatisfaction
+323,Sadness,Gratitude / Positive Feedback
 324,Happiness,Gratitude / Positive Feedback
-325,Anger,Complaint / Dissatisfaction
+325,Happiness,Gratitude / Positive Feedback
 326,Happiness,Gratitude / Positive Feedback
 327,Neutral,Suggestion / Idea
 328,Happiness,Gratitude / Positive Feedback
 329,Anger,Complaint / Dissatisfaction
 330,Happiness,Gratitude / Positive Feedback
-331,Disgust,Complaint / Dissatisfaction
+331,Anger,Complaint / Dissatisfaction
 332,Happiness,Gratitude / Positive Feedback
 333,Happiness,Gratitude / Positive Feedback
 334,Happiness,Gratitude / Positive Feedback
@@ -343,7 +343,7 @@ index,emotion,category
 341,Happiness,Gratitude / Positive Feedback
 342,Happiness,Gratitude / Positive Feedback
 343,Anger,Complaint / Dissatisfaction
-344,Sadness,Neutral Comment
+344,Happiness,Gratitude / Positive Feedback
 345,Happiness,Gratitude / Positive Feedback
 346,Neutral,Suggestion / Idea
 347,Happiness,Gratitude / Positive Feedback
@@ -351,7 +351,7 @@ index,emotion,category
 349,Happiness,Gratitude / Positive Feedback
 350,Happiness,Gratitude / Positive Feedback
 351,Happiness,Gratitude / Positive Feedback
-352,Anger,Complaint / Dissatisfaction
+352,Happiness,Gratitude / Positive Feedback
 353,Happiness,Gratitude / Positive Feedback
 354,Happiness,Gratitude / Positive Feedback
 355,Happiness,Gratitude / Positive Feedback
@@ -368,11 +368,11 @@ index,emotion,category
 366,Happiness,Gratitude / Positive Feedback
 367,Happiness,Gratitude / Positive Feedback
 368,Happiness,Gratitude / Positive Feedback
-369,Anger,Gratitude / Positive Feedback
+369,Happiness,Gratitude / Positive Feedback
 370,Anger,Complaint / Dissatisfaction
 371,Happiness,Gratitude / Positive Feedback
 372,Happiness,Gratitude / Positive Feedback
-373,Anger,Complaint / Dissatisfaction
+373,Happiness,Gratitude / Positive Feedback
 374,Happiness,Gratitude / Positive Feedback
 375,Neutral,Question / Request for Help
 376,Happiness,Gratitude / Positive Feedback
@@ -380,14 +380,14 @@ index,emotion,category
 378,Happiness,Gratitude / Positive Feedback
 379,Anger,Complaint / Dissatisfaction
 380,Anger,Complaint / Dissatisfaction
-381,Anger,Complaint / Dissatisfaction
+381,Happiness,Gratitude / Positive Feedback
 382,Neutral,Question / Request for Help
 383,Happiness,Gratitude / Positive Feedback
 384,Anger,Complaint / Dissatisfaction
 385,Happiness,Gratitude / Positive Feedback
 386,Happiness,Gratitude / Positive Feedback
 387,Neutral,Neutral Comment
-388,Anger,Complaint / Dissatisfaction
+388,Happiness,Gratitude / Positive Feedback
 389,Happiness,Gratitude / Positive Feedback
 390,Happiness,Gratitude / Positive Feedback
 391,Happiness,Gratitude / Positive Feedback
@@ -397,52 +397,52 @@ index,emotion,category
 395,Happiness,Gratitude / Positive Feedback
 396,Anger,Complaint / Dissatisfaction
 397,Happiness,Gratitude / Positive Feedback
-398,Neutral,Neutral Comment
+398,Neutral,Suggestion / Idea
 399,Happiness,Gratitude / Positive Feedback
 400,Happiness,Gratitude / Positive Feedback
 401,Happiness,Gratitude / Positive Feedback
 402,Happiness,Gratitude / Positive Feedback
 403,Happiness,Gratitude / Positive Feedback
-404,Neutral,Complaint / Dissatisfaction
+404,Happiness,Gratitude / Positive Feedback
 405,Happiness,Gratitude / Positive Feedback
 406,Anger,Complaint / Dissatisfaction
-407,Neutral,Question / Request for Help
+407,Neutral,Suggestion / Idea
 408,Neutral,Neutral Comment
 409,Happiness,Gratitude / Positive Feedback
 410,Happiness,Gratitude / Positive Feedback
 411,Happiness,Gratitude / Positive Feedback
 412,Happiness,Gratitude / Positive Feedback
 413,Happiness,Gratitude / Positive Feedback
-414,Anger,Complaint / Dissatisfaction
+414,Neutral,Neutral Comment
 415,Happiness,Gratitude / Positive Feedback
 416,Anger,Complaint / Dissatisfaction
 417,Happiness,Gratitude / Positive Feedback
 418,Happiness,Gratitude / Positive Feedback
 419,Happiness,Gratitude / Positive Feedback
-420,Sadness,Complaint / Dissatisfaction
+420,Sadness,Neutral Comment
 421,Anger,Complaint / Dissatisfaction
-422,Neutral,Neutral Comment
-423,Neutral,Gratitude / Positive Feedback
+422,Happiness,Gratitude / Positive Feedback
+423,Happiness,Gratitude / Positive Feedback
 424,Happiness,Gratitude / Positive Feedback
-425,Anger,Complaint / Dissatisfaction
+425,Sadness,Complaint / Dissatisfaction
 426,Happiness,Gratitude / Positive Feedback
 427,Anger,Complaint / Dissatisfaction
 428,Happiness,Gratitude / Positive Feedback
-429,Anger,Complaint / Dissatisfaction
+429,Happiness,Gratitude / Positive Feedback
 430,Happiness,Gratitude / Positive Feedback
 431,Happiness,Gratitude / Positive Feedback
 432,Anger,Complaint / Dissatisfaction
-433,Anger,Complaint / Dissatisfaction
+433,Neutral,Suggestion / Idea
 434,Happiness,Gratitude / Positive Feedback
 435,Anger,Complaint / Dissatisfaction
 436,Anger,Complaint / Dissatisfaction
 437,Anger,Complaint / Dissatisfaction
 438,Neutral,Question / Request for Help
 439,Happiness,Gratitude / Positive Feedback
-440,Sadness,Question / Request for Help
+440,Neutral,Question / Request for Help
 441,Happiness,Gratitude / Positive Feedback
 442,Anger,Complaint / Dissatisfaction
-443,Neutral,Neutral Comment
+443,Sadness,Gratitude / Positive Feedback
 444,Anger,Complaint / Dissatisfaction
 445,Happiness,Gratitude / Positive Feedback
 446,Happiness,Gratitude / Positive Feedback
@@ -450,7 +450,7 @@ index,emotion,category
 448,Happiness,Gratitude / Positive Feedback
 449,Happiness,Gratitude / Positive Feedback
 450,Happiness,Gratitude / Positive Feedback
-451,Neutral,Gratitude / Positive Feedback
+451,Neutral,Suggestion / Idea
 452,Happiness,Gratitude / Positive Feedback
 453,Sadness,Complaint / Dissatisfaction
 454,Happiness,Gratitude / Positive Feedback
@@ -460,13 +460,13 @@ index,emotion,category
 458,Happiness,Gratitude / Positive Feedback
 459,Anger,Complaint / Dissatisfaction
 460,Happiness,Gratitude / Positive Feedback
-461,Sadness,Complaint / Dissatisfaction
+461,Happiness,Gratitude / Positive Feedback
 462,Happiness,Gratitude / Positive Feedback
 463,Happiness,Gratitude / Positive Feedback
 464,Anger,Complaint / Dissatisfaction
 465,Happiness,Gratitude / Positive Feedback
 466,Neutral,Neutral Comment
-467,Neutral,Neutral Comment
+467,Happiness,Gratitude / Positive Feedback
 468,Happiness,Gratitude / Positive Feedback
 469,Happiness,Gratitude / Positive Feedback
 470,Happiness,Gratitude / Positive Feedback
@@ -478,7 +478,7 @@ index,emotion,category
 476,Happiness,Gratitude / Positive Feedback
 477,Happiness,Gratitude / Positive Feedback
 478,Happiness,Gratitude / Positive Feedback
-479,Neutral,Question / Request for Help
+479,Sadness,Question / Request for Help
 480,Neutral,Suggestion / Idea
 481,Neutral,Question / Request for Help
 482,Happiness,Gratitude / Positive Feedback
@@ -489,13 +489,13 @@ index,emotion,category
 487,Happiness,Gratitude / Positive Feedback
 488,Happiness,Gratitude / Positive Feedback
 489,Happiness,Gratitude / Positive Feedback
-490,Surprise,Gratitude / Positive Feedback
+490,Happiness,Gratitude / Positive Feedback
 491,Anger,Complaint / Dissatisfaction
 492,Happiness,Gratitude / Positive Feedback
-493,Anger,Complaint / Dissatisfaction
+493,Happiness,Gratitude / Positive Feedback
 494,Happiness,Gratitude / Positive Feedback
 495,Happiness,Gratitude / Positive Feedback
-496,Anger,Complaint / Dissatisfaction
+496,Disgust,Complaint / Dissatisfaction
 497,Happiness,Gratitude / Positive Feedback
 498,Anger,Complaint / Dissatisfaction
 499,Anger,Complaint / Dissatisfaction
@@ -503,7 +503,7 @@ index,emotion,category
 501,Anger,Complaint / Dissatisfaction
 502,Anger,Complaint / Dissatisfaction
 503,Neutral,Suggestion / Idea
-504,Happiness,Suggestion / Idea
+504,Happiness,Gratitude / Positive Feedback
 505,Happiness,Gratitude / Positive Feedback
 506,Happiness,Gratitude / Positive Feedback
 507,Anger,Complaint / Dissatisfaction
@@ -514,10 +514,10 @@ index,emotion,category
 512,Anger,Complaint / Dissatisfaction
 513,Anger,Complaint / Dissatisfaction
 514,Anger,Complaint / Dissatisfaction
-515,Anger,Complaint / Dissatisfaction
+515,Sadness,Complaint / Dissatisfaction
 516,Neutral,Question / Request for Help
 517,Happiness,Gratitude / Positive Feedback
-518,Anger,Complaint / Dissatisfaction
+518,Happiness,Gratitude / Positive Feedback
 519,Anger,Complaint / Dissatisfaction
 520,Happiness,Gratitude / Positive Feedback
 521,Happiness,Gratitude / Positive Feedback
@@ -534,34 +534,34 @@ index,emotion,category
 532,Happiness,Gratitude / Positive Feedback
 533,Happiness,Gratitude / Positive Feedback
 534,Disgust,Complaint / Dissatisfaction
-535,Neutral,Neutral Comment
+535,Neutral,Gratitude / Positive Feedback
 536,Happiness,Gratitude / Positive Feedback
 537,Happiness,Gratitude / Positive Feedback
-538,Disgust,Complaint / Dissatisfaction
+538,Neutral,Gratitude / Positive Feedback
 539,Happiness,Gratitude / Positive Feedback
 540,Anger,Complaint / Dissatisfaction
 541,Happiness,Gratitude / Positive Feedback
 542,Happiness,Gratitude / Positive Feedback
 543,Anger,Complaint / Dissatisfaction
 544,Happiness,Gratitude / Positive Feedback
-545,Anger,Complaint / Dissatisfaction
+545,Sadness,Complaint / Dissatisfaction
 546,Neutral,Neutral Comment
 547,Happiness,Gratitude / Positive Feedback
-548,Sadness,Neutral Comment
-549,Neutral,Question / Request for Help
+548,Disgust,Complaint / Dissatisfaction
+549,Happiness,Suggestion / Idea
 550,Anger,Complaint / Dissatisfaction
 551,Happiness,Gratitude / Positive Feedback
 552,Happiness,Gratitude / Positive Feedback
-553,Anger,Complaint / Dissatisfaction
+553,Sadness,Complaint / Dissatisfaction
 554,Happiness,Gratitude / Positive Feedback
-555,Neutral,Suggestion / Idea
+555,Happiness,Gratitude / Positive Feedback
 556,Happiness,Gratitude / Positive Feedback
 557,Neutral,Neutral Comment
 558,Anger,Complaint / Dissatisfaction
-559,Happiness,Gratitude / Positive Feedback
+559,Happiness,Suggestion / Idea
 560,Neutral,Suggestion / Idea
-561,Sadness,Complaint / Dissatisfaction
-562,Sadness,Neutral Comment
+561,Sadness,Gratitude / Positive Feedback
+562,Neutral,Neutral Comment
 563,Happiness,Gratitude / Positive Feedback
 564,Happiness,Gratitude / Positive Feedback
 565,Happiness,Gratitude / Positive Feedback
@@ -573,34 +573,34 @@ index,emotion,category
 571,Neutral,Suggestion / Idea
 572,Happiness,Gratitude / Positive Feedback
 573,Sadness,Complaint / Dissatisfaction
-574,Happiness,Gratitude / Positive Feedback
+574,Happiness,Suggestion / Idea
 575,Sadness,Complaint / Dissatisfaction
 576,Anger,Complaint / Dissatisfaction
 577,Happiness,Gratitude / Positive Feedback
 578,Happiness,Gratitude / Positive Feedback
 579,Happiness,Gratitude / Positive Feedback
 580,Anger,Complaint / Dissatisfaction
-581,Anger,Complaint / Dissatisfaction
+581,Happiness,Gratitude / Positive Feedback
 582,Happiness,Gratitude / Positive Feedback
 583,Anger,Complaint / Dissatisfaction
 584,Happiness,Gratitude / Positive Feedback
 585,Happiness,Gratitude / Positive Feedback
-586,Anger,Complaint / Dissatisfaction
+586,Happiness,Gratitude / Positive Feedback
 587,Happiness,Gratitude / Positive Feedback
-588,Anger,Complaint / Dissatisfaction
+588,Happiness,Gratitude / Positive Feedback
 589,Anger,Complaint / Dissatisfaction
 590,Anger,Complaint / Dissatisfaction
-591,Sadness,Neutral Comment
+591,Anger,Complaint / Dissatisfaction
 592,Anger,Complaint / Dissatisfaction
 593,Happiness,Gratitude / Positive Feedback
 594,Anger,Complaint / Dissatisfaction
 595,Happiness,Gratitude / Positive Feedback
-596,Sadness,Neutral Comment
+596,Happiness,Gratitude / Positive Feedback
 597,Happiness,Gratitude / Positive Feedback
-598,Anger,Complaint / Dissatisfaction
+598,Happiness,Gratitude / Positive Feedback
 599,Anger,Complaint / Dissatisfaction
 600,Happiness,Gratitude / Positive Feedback
-601,Sadness,Neutral Comment
+601,Sadness,Gratitude / Positive Feedback
 602,Anger,Complaint / Dissatisfaction
 603,Happiness,Gratitude / Positive Feedback
 604,Happiness,Gratitude / Positive Feedback
@@ -609,7 +609,7 @@ index,emotion,category
 607,Anger,Complaint / Dissatisfaction
 608,Happiness,Gratitude / Positive Feedback
 609,Happiness,Gratitude / Positive Feedback
-610,Neutral,Neutral Comment
+610,Happiness,Suggestion / Idea
 611,Happiness,Gratitude / Positive Feedback
 612,Happiness,Gratitude / Positive Feedback
 613,Happiness,Gratitude / Positive Feedback
@@ -620,51 +620,51 @@ index,emotion,category
 618,Happiness,Gratitude / Positive Feedback
 619,Happiness,Gratitude / Positive Feedback
 620,Neutral,Neutral Comment
-621,Anger,Complaint / Dissatisfaction
+621,Happiness,Gratitude / Positive Feedback
 622,Happiness,Gratitude / Positive Feedback
 623,Neutral,Neutral Comment
 624,Happiness,Gratitude / Positive Feedback
 625,Anger,Complaint / Dissatisfaction
-626,Sadness,Complaint / Dissatisfaction
+626,Happiness,Gratitude / Positive Feedback
 627,Happiness,Gratitude / Positive Feedback
 628,Happiness,Gratitude / Positive Feedback
-629,Sadness,Question / Request for Help
+629,Neutral,Question / Request for Help
 630,Happiness,Gratitude / Positive Feedback
-631,Surprise,Gratitude / Positive Feedback
+631,Happiness,Gratitude / Positive Feedback
 632,Happiness,Gratitude / Positive Feedback
 633,Anger,Complaint / Dissatisfaction
 634,Happiness,Gratitude / Positive Feedback
-635,Happiness,Gratitude / Positive Feedback
+635,Neutral,Question / Request for Help
 636,Happiness,Gratitude / Positive Feedback
 637,Happiness,Gratitude / Positive Feedback
 638,Happiness,Gratitude / Positive Feedback
-639,Neutral,Neutral Comment
+639,Happiness,Gratitude / Positive Feedback
 640,Happiness,Gratitude / Positive Feedback
-641,Neutral,Suggestion / Idea
-642,Anger,Complaint / Dissatisfaction
+641,Happiness,Suggestion / Idea
+642,Sadness,Complaint / Dissatisfaction
 643,Happiness,Gratitude / Positive Feedback
-644,Neutral,Neutral Comment
+644,Surprise,Gratitude / Positive Feedback
 645,Anger,Complaint / Dissatisfaction
 646,Happiness,Gratitude / Positive Feedback
 647,Happiness,Gratitude / Positive Feedback
 648,Happiness,Gratitude / Positive Feedback
-649,Sadness,Complaint / Dissatisfaction
+649,Surprise,Gratitude / Positive Feedback
 650,Happiness,Gratitude / Positive Feedback
 651,Neutral,Question / Request for Help
 652,Anger,Complaint / Dissatisfaction
 653,Happiness,Gratitude / Positive Feedback
-654,Neutral,Neutral Comment
-655,Sadness,Neutral Comment
+654,Sadness,Neutral Comment
+655,Neutral,Suggestion / Idea
 656,Neutral,Neutral Comment
 657,Anger,Complaint / Dissatisfaction
 658,Happiness,Gratitude / Positive Feedback
 659,Anger,Complaint / Dissatisfaction
-660,Sadness,Complaint / Dissatisfaction
-661,Anger,Complaint / Dissatisfaction
-662,Neutral,Neutral Comment
+660,Anger,Complaint / Dissatisfaction
+661,Happiness,Gratitude / Positive Feedback
+662,Happiness,Gratitude / Positive Feedback
 663,Happiness,Gratitude / Positive Feedback
 664,Happiness,Gratitude / Positive Feedback
-665,Anger,Complaint / Dissatisfaction
+665,Neutral,Suggestion / Idea
 666,Happiness,Gratitude / Positive Feedback
 667,Happiness,Gratitude / Positive Feedback
 668,Happiness,Gratitude / Positive Feedback
@@ -673,16 +673,16 @@ index,emotion,category
 671,Anger,Complaint / Dissatisfaction
 672,Anger,Complaint / Dissatisfaction
 673,Happiness,Gratitude / Positive Feedback
-674,Disgust,Neutral Comment
+674,Happiness,Gratitude / Positive Feedback
 675,Neutral,Suggestion / Idea
 676,Happiness,Gratitude / Positive Feedback
 677,Anger,Complaint / Dissatisfaction
 678,Happiness,Gratitude / Positive Feedback
 679,Happiness,Gratitude / Positive Feedback
-680,Sadness,Neutral Comment
+680,Happiness,Gratitude / Positive Feedback
 681,Happiness,Gratitude / Positive Feedback
 682,Happiness,Gratitude / Positive Feedback
-683,Neutral,Neutral Comment
+683,Happiness,Gratitude / Positive Feedback
 684,Neutral,Neutral Comment
 685,Happiness,Gratitude / Positive Feedback
 686,Happiness,Gratitude / Positive Feedback
@@ -707,7 +707,7 @@ index,emotion,category
 705,Neutral,Question / Request for Help
 706,Happiness,Gratitude / Positive Feedback
 707,Happiness,Gratitude / Positive Feedback
-708,Happiness,Gratitude / Positive Feedback
+708,Disgust,Complaint / Dissatisfaction
 709,Anger,Complaint / Dissatisfaction
 710,Happiness,Gratitude / Positive Feedback
 711,Anger,Complaint / Dissatisfaction
@@ -717,7 +717,7 @@ index,emotion,category
 715,Happiness,Gratitude / Positive Feedback
 716,Neutral,Question / Request for Help
 717,Happiness,Gratitude / Positive Feedback
-718,Happiness,Gratitude / Positive Feedback
+718,Happiness,Suggestion / Idea
 719,Happiness,Gratitude / Positive Feedback
 720,Happiness,Gratitude / Positive Feedback
 721,Happiness,Gratitude / Positive Feedback
@@ -731,16 +731,16 @@ index,emotion,category
 729,Happiness,Gratitude / Positive Feedback
 730,Neutral,Suggestion / Idea
 731,Happiness,Gratitude / Positive Feedback
-732,Sadness,Complaint / Dissatisfaction
-733,Neutral,Question / Request for Help
+732,Anger,Complaint / Dissatisfaction
+733,Neutral,Suggestion / Idea
 734,Neutral,Question / Request for Help
-735,Anger,Complaint / Dissatisfaction
+735,Disgust,Complaint / Dissatisfaction
 736,Happiness,Gratitude / Positive Feedback
 737,Happiness,Gratitude / Positive Feedback
-738,Happiness,Gratitude / Positive Feedback
+738,Anger,Gratitude / Positive Feedback
 739,Happiness,Gratitude / Positive Feedback
 740,Happiness,Gratitude / Positive Feedback
-741,Surprise,Complaint / Dissatisfaction
+741,Happiness,Gratitude / Positive Feedback
 742,Happiness,Gratitude / Positive Feedback
 743,Anger,Complaint / Dissatisfaction
 744,Anger,Complaint / Dissatisfaction
@@ -755,33 +755,33 @@ index,emotion,category
 753,Anger,Complaint / Dissatisfaction
 754,Happiness,Gratitude / Positive Feedback
 755,Happiness,Gratitude / Positive Feedback
-756,Anger,Complaint / Dissatisfaction
+756,Sadness,Complaint / Dissatisfaction
 757,Happiness,Gratitude / Positive Feedback
 758,Neutral,Question / Request for Help
 759,Happiness,Gratitude / Positive Feedback
-760,Anger,Complaint / Dissatisfaction
+760,Happiness,Gratitude / Positive Feedback
 761,Happiness,Gratitude / Positive Feedback
 762,Happiness,Gratitude / Positive Feedback
 763,Anger,Complaint / Dissatisfaction
 764,Happiness,Suggestion / Idea
 765,Happiness,Gratitude / Positive Feedback
-766,Disgust,Complaint / Dissatisfaction
+766,Happiness,Gratitude / Positive Feedback
 767,Happiness,Gratitude / Positive Feedback
 768,Happiness,Gratitude / Positive Feedback
 769,Happiness,Gratitude / Positive Feedback
 770,Happiness,Gratitude / Positive Feedback
-771,Anger,Complaint / Dissatisfaction
+771,Disgust,Complaint / Dissatisfaction
 772,Happiness,Suggestion / Idea
-773,Anger,Complaint / Dissatisfaction
+773,Happiness,Suggestion / Idea
 774,Happiness,Gratitude / Positive Feedback
-775,Anger,Complaint / Dissatisfaction
+775,Happiness,Gratitude / Positive Feedback
 776,Happiness,Gratitude / Positive Feedback
 777,Happiness,Gratitude / Positive Feedback
-778,Neutral,Suggestion / Idea
+778,Happiness,Suggestion / Idea
 779,Happiness,Gratitude / Positive Feedback
 780,Happiness,Gratitude / Positive Feedback
 781,Happiness,Gratitude / Positive Feedback
-782,Anger,Complaint / Dissatisfaction
+782,Neutral,Neutral Comment
 783,Happiness,Gratitude / Positive Feedback
 784,Happiness,Gratitude / Positive Feedback
 785,Happiness,Gratitude / Positive Feedback
@@ -790,11 +790,11 @@ index,emotion,category
 788,Happiness,Gratitude / Positive Feedback
 789,Happiness,Gratitude / Positive Feedback
 790,Happiness,Suggestion / Idea
-791,Sadness,Complaint / Dissatisfaction
+791,Anger,Complaint / Dissatisfaction
 792,Neutral,Question / Request for Help
 793,Happiness,Gratitude / Positive Feedback
 794,Anger,Complaint / Dissatisfaction
-795,Anger,Complaint / Dissatisfaction
+795,Anger,Suggestion / Idea
 796,Happiness,Gratitude / Positive Feedback
 797,Happiness,Gratitude / Positive Feedback
 798,Sadness,Complaint / Dissatisfaction
@@ -806,25 +806,25 @@ index,emotion,category
 804,Happiness,Gratitude / Positive Feedback
 805,Happiness,Gratitude / Positive Feedback
 806,Anger,Complaint / Dissatisfaction
-807,Anger,Complaint / Dissatisfaction
+807,Neutral,Suggestion / Idea
 808,Happiness,Gratitude / Positive Feedback
 809,Anger,Complaint / Dissatisfaction
-810,Anger,Complaint / Dissatisfaction
+810,Anger,Suggestion / Idea
 811,Anger,Complaint / Dissatisfaction
-812,Happiness,Gratitude / Positive Feedback
+812,Anger,Complaint / Dissatisfaction
 813,Anger,Complaint / Dissatisfaction
 814,Anger,Complaint / Dissatisfaction
 815,Happiness,Gratitude / Positive Feedback
-816,Anger,Complaint / Dissatisfaction
+816,Anger,Suggestion / Idea
 817,Happiness,Gratitude / Positive Feedback
 818,Happiness,Gratitude / Positive Feedback
-819,Disgust,Complaint / Dissatisfaction
+819,Sadness,Complaint / Dissatisfaction
 820,Happiness,Gratitude / Positive Feedback
-821,Happiness,Gratitude / Positive Feedback
+821,Happiness,Suggestion / Idea
 822,Anger,Complaint / Dissatisfaction
 823,Happiness,Gratitude / Positive Feedback
-824,Anger,Complaint / Dissatisfaction
-825,Anger,Complaint / Dissatisfaction
+824,Sadness,Gratitude / Positive Feedback
+825,Anger,Suggestion / Idea
 826,Happiness,Gratitude / Positive Feedback
 827,Happiness,Gratitude / Positive Feedback
 828,Happiness,Gratitude / Positive Feedback
@@ -841,10 +841,10 @@ index,emotion,category
 839,Happiness,Gratitude / Positive Feedback
 840,Happiness,Gratitude / Positive Feedback
 841,Happiness,Gratitude / Positive Feedback
-842,Happiness,Gratitude / Positive Feedback
+842,Sadness,Gratitude / Positive Feedback
 843,Happiness,Gratitude / Positive Feedback
 844,Happiness,Gratitude / Positive Feedback
-845,Neutral,Suggestion / Idea
+845,Sadness,Suggestion / Idea
 846,Happiness,Gratitude / Positive Feedback
 847,Happiness,Gratitude / Positive Feedback
 848,Surprise,Gratitude / Positive Feedback
@@ -863,31 +863,31 @@ index,emotion,category
 861,Happiness,Gratitude / Positive Feedback
 862,Happiness,Gratitude / Positive Feedback
 863,Anger,Complaint / Dissatisfaction
-864,Anger,Complaint / Dissatisfaction
+864,Happiness,Gratitude / Positive Feedback
 865,Happiness,Gratitude / Positive Feedback
 866,Neutral,Question / Request for Help
 867,Happiness,Gratitude / Positive Feedback
-868,Anger,Complaint / Dissatisfaction
+868,Happiness,Gratitude / Positive Feedback
 869,Anger,Complaint / Dissatisfaction
 870,Happiness,Gratitude / Positive Feedback
-871,Happiness,Neutral Comment
+871,Happiness,Gratitude / Positive Feedback
 872,Happiness,Gratitude / Positive Feedback
 873,Happiness,Gratitude / Positive Feedback
 874,Anger,Complaint / Dissatisfaction
-875,Anger,Complaint / Dissatisfaction
+875,Happiness,Gratitude / Positive Feedback
 876,Sadness,Complaint / Dissatisfaction
 877,Anger,Complaint / Dissatisfaction
 878,Anger,Complaint / Dissatisfaction
 879,Neutral,Suggestion / Idea
 880,Happiness,Gratitude / Positive Feedback
-881,Disgust,Complaint / Dissatisfaction
+881,Anger,Suggestion / Idea
 882,Anger,Complaint / Dissatisfaction
 883,Happiness,Gratitude / Positive Feedback
-884,Sadness,Gratitude / Positive Feedback
+884,Anger,Complaint / Dissatisfaction
 885,Happiness,Gratitude / Positive Feedback
-886,Anger,Complaint / Dissatisfaction
+886,Anger,Gratitude / Positive Feedback
 887,Happiness,Gratitude / Positive Feedback
-888,Sadness,Complaint / Dissatisfaction
+888,Sadness,Gratitude / Positive Feedback
 889,Happiness,Gratitude / Positive Feedback
 890,Anger,Complaint / Dissatisfaction
 891,Happiness,Gratitude / Positive Feedback
@@ -902,20 +902,20 @@ index,emotion,category
 900,Neutral,Neutral Comment
 901,Neutral,Neutral Comment
 902,Happiness,Gratitude / Positive Feedback
-903,Sadness,Neutral Comment
+903,Sadness,Gratitude / Positive Feedback
 904,Happiness,Gratitude / Positive Feedback
 905,Happiness,Gratitude / Positive Feedback
 906,Happiness,Gratitude / Positive Feedback
 907,Happiness,Gratitude / Positive Feedback
-908,Sadness,Complaint / Dissatisfaction
+908,Sadness,Suggestion / Idea
 909,Happiness,Gratitude / Positive Feedback
 910,Happiness,Gratitude / Positive Feedback
-911,Anger,Complaint / Dissatisfaction
+911,Disgust,Complaint / Dissatisfaction
 912,Anger,Complaint / Dissatisfaction
 913,Happiness,Gratitude / Positive Feedback
 914,Happiness,Gratitude / Positive Feedback
 915,Happiness,Gratitude / Positive Feedback
-916,Happiness,Gratitude / Positive Feedback
+916,Happiness,Suggestion / Idea
 917,Happiness,Gratitude / Positive Feedback
 918,Happiness,Gratitude / Positive Feedback
 919,Happiness,Gratitude / Positive Feedback
@@ -925,21 +925,21 @@ index,emotion,category
 923,Anger,Complaint / Dissatisfaction
 924,Happiness,Gratitude / Positive Feedback
 925,Happiness,Gratitude / Positive Feedback
-926,Neutral,Suggestion / Idea
-927,Sadness,Neutral Comment
+926,Happiness,Suggestion / Idea
+927,Happiness,Gratitude / Positive Feedback
 928,Anger,Complaint / Dissatisfaction
 929,Neutral,Question / Request for Help
 930,Happiness,Gratitude / Positive Feedback
 931,Happiness,Gratitude / Positive Feedback
 932,Happiness,Gratitude / Positive Feedback
-933,Neutral,Complaint / Dissatisfaction
+933,Neutral,Suggestion / Idea
 934,Anger,Complaint / Dissatisfaction
 935,Happiness,Gratitude / Positive Feedback
 936,Happiness,Suggestion / Idea
 937,Anger,Complaint / Dissatisfaction
-938,Anger,Complaint / Dissatisfaction
+938,Sadness,Complaint / Dissatisfaction
 939,Anger,Complaint / Dissatisfaction
-940,Anger,Complaint / Dissatisfaction
+940,Happiness,Suggestion / Idea
 941,Happiness,Gratitude / Positive Feedback
 942,Anger,Complaint / Dissatisfaction
 943,Neutral,Neutral Comment
@@ -950,7 +950,7 @@ index,emotion,category
 948,Happiness,Gratitude / Positive Feedback
 949,Anger,Complaint / Dissatisfaction
 950,Happiness,Gratitude / Positive Feedback
-951,Anger,Complaint / Dissatisfaction
+951,Happiness,Gratitude / Positive Feedback
 952,Happiness,Gratitude / Positive Feedback
 953,Happiness,Gratitude / Positive Feedback
 954,Happiness,Gratitude / Positive Feedback
@@ -962,7 +962,7 @@ index,emotion,category
 960,Happiness,Gratitude / Positive Feedback
 961,Happiness,Gratitude / Positive Feedback
 962,Happiness,Gratitude / Positive Feedback
-963,Anger,Complaint / Dissatisfaction
+963,Happiness,Gratitude / Positive Feedback
 964,Neutral,Question / Request for Help
 965,Anger,Complaint / Dissatisfaction
 966,Anger,Complaint / Dissatisfaction
@@ -970,7 +970,7 @@ index,emotion,category
 968,Happiness,Gratitude / Positive Feedback
 969,Happiness,Gratitude / Positive Feedback
 970,Happiness,Gratitude / Positive Feedback
-971,Anger,Complaint / Dissatisfaction
+971,Happiness,Gratitude / Positive Feedback
 972,Happiness,Gratitude / Positive Feedback
 973,Neutral,Question / Request for Help
 974,Happiness,Gratitude / Positive Feedback
@@ -980,12 +980,12 @@ index,emotion,category
 978,Happiness,Gratitude / Positive Feedback
 979,Happiness,Gratitude / Positive Feedback
 980,Neutral,Question / Request for Help
-981,Anger,Complaint / Dissatisfaction
-982,Surprise,Complaint / Dissatisfaction
+981,Happiness,Suggestion / Idea
+982,Neutral,Question / Request for Help
 983,Anger,Complaint / Dissatisfaction
 984,Happiness,Gratitude / Positive Feedback
 985,Happiness,Gratitude / Positive Feedback
-986,Neutral,Suggestion / Idea
+986,Happiness,Suggestion / Idea
 987,Happiness,Gratitude / Positive Feedback
 988,Anger,Complaint / Dissatisfaction
 989,Anger,Complaint / Dissatisfaction
@@ -997,10 +997,10 @@ index,emotion,category
 995,Happiness,Gratitude / Positive Feedback
 996,Happiness,Gratitude / Positive Feedback
 997,Anger,Complaint / Dissatisfaction
-998,Disgust,Complaint / Dissatisfaction
+998,Anger,Complaint / Dissatisfaction
 999,Happiness,Gratitude / Positive Feedback
 1000,Happiness,Gratitude / Positive Feedback
-1001,Surprise,Gratitude / Positive Feedback
+1001,Happiness,Gratitude / Positive Feedback
 1002,Anger,Complaint / Dissatisfaction
 1003,Anger,Complaint / Dissatisfaction
 1004,Happiness,Gratitude / Positive Feedback
@@ -1009,26 +1009,26 @@ index,emotion,category
 1007,Happiness,Gratitude / Positive Feedback
 1008,Anger,Complaint / Dissatisfaction
 1009,Happiness,Gratitude / Positive Feedback
-1010,Anger,Complaint / Dissatisfaction
+1010,Happiness,Gratitude / Positive Feedback
 1011,Anger,Complaint / Dissatisfaction
 1012,Happiness,Gratitude / Positive Feedback
 1013,Happiness,Gratitude / Positive Feedback
-1014,Anger,Complaint / Dissatisfaction
-1015,Anger,Complaint / Dissatisfaction
+1014,Sadness,Complaint / Dissatisfaction
+1015,Neutral,Neutral Comment
 1016,Happiness,Gratitude / Positive Feedback
 1017,Happiness,Gratitude / Positive Feedback
 1018,Happiness,Gratitude / Positive Feedback
 1019,Happiness,Gratitude / Positive Feedback
 1020,Happiness,Gratitude / Positive Feedback
 1021,Happiness,Gratitude / Positive Feedback
-1022,Sadness,Complaint / Dissatisfaction
+1022,Sadness,Gratitude / Positive Feedback
 1023,Happiness,Gratitude / Positive Feedback
 1024,Happiness,Gratitude / Positive Feedback
 1025,Happiness,Gratitude / Positive Feedback
 1026,Neutral,Question / Request for Help
 1027,Happiness,Gratitude / Positive Feedback
 1028,Anger,Complaint / Dissatisfaction
-1029,Sadness,Complaint / Dissatisfaction
+1029,Neutral,Suggestion / Idea
 1030,Happiness,Gratitude / Positive Feedback
 1031,Happiness,Gratitude / Positive Feedback
 1032,Happiness,Gratitude / Positive Feedback
@@ -1038,8 +1038,8 @@ index,emotion,category
 1036,Neutral,Neutral Comment
 1037,Anger,Complaint / Dissatisfaction
 1038,Happiness,Gratitude / Positive Feedback
-1039,Anger,Complaint / Dissatisfaction
-1040,Happiness,Gratitude / Positive Feedback
+1039,Happiness,Gratitude / Positive Feedback
+1040,Happiness,Suggestion / Idea
 1041,Anger,Complaint / Dissatisfaction
 1042,Neutral,Question / Request for Help
 1043,Anger,Complaint / Dissatisfaction
@@ -1051,22 +1051,22 @@ index,emotion,category
 1049,Happiness,Gratitude / Positive Feedback
 1050,Happiness,Gratitude / Positive Feedback
 1051,Happiness,Gratitude / Positive Feedback
-1052,Surprise,Gratitude / Positive Feedback
-1053,Neutral,Gratitude / Positive Feedback
+1052,Happiness,Gratitude / Positive Feedback
+1053,Happiness,Gratitude / Positive Feedback
 1054,Anger,Complaint / Dissatisfaction
 1055,Happiness,Gratitude / Positive Feedback
-1056,Happiness,Neutral Comment
+1056,Happiness,Gratitude / Positive Feedback
 1057,Neutral,Neutral Comment
 1058,Happiness,Gratitude / Positive Feedback
 1059,Happiness,Gratitude / Positive Feedback
 1060,Happiness,Gratitude / Positive Feedback
-1061,Neutral,Suggestion / Idea
-1062,Surprise,Gratitude / Positive Feedback
-1063,Neutral,Neutral Comment
+1061,Happiness,Suggestion / Idea
+1062,Happiness,Gratitude / Positive Feedback
+1063,Neutral,Suggestion / Idea
 1064,Happiness,Gratitude / Positive Feedback
 1065,Anger,Complaint / Dissatisfaction
 1066,Happiness,Gratitude / Positive Feedback
-1067,Neutral,Neutral Comment
+1067,Neutral,Suggestion / Idea
 1068,Happiness,Gratitude / Positive Feedback
 1069,Neutral,Suggestion / Idea
 1070,Happiness,Gratitude / Positive Feedback
@@ -1075,11 +1075,11 @@ index,emotion,category
 1073,Happiness,Gratitude / Positive Feedback
 1074,Happiness,Gratitude / Positive Feedback
 1075,Happiness,Gratitude / Positive Feedback
-1076,Anger,Complaint / Dissatisfaction
+1076,Neutral,Neutral Comment
 1077,Anger,Complaint / Dissatisfaction
 1078,Anger,Complaint / Dissatisfaction
 1079,Anger,Complaint / Dissatisfaction
-1080,Fear,Suggestion / Idea
+1080,Neutral,Neutral Comment
 1081,Happiness,Gratitude / Positive Feedback
 1082,Happiness,Gratitude / Positive Feedback
 1083,Happiness,Gratitude / Positive Feedback
@@ -1093,7 +1093,7 @@ index,emotion,category
 1091,Anger,Complaint / Dissatisfaction
 1092,Happiness,Gratitude / Positive Feedback
 1093,Happiness,Gratitude / Positive Feedback
-1094,Anger,Complaint / Dissatisfaction
+1094,Sadness,Complaint / Dissatisfaction
 1095,Happiness,Gratitude / Positive Feedback
 1096,Anger,Complaint / Dissatisfaction
 1097,Anger,Complaint / Dissatisfaction
@@ -1104,7 +1104,7 @@ index,emotion,category
 1102,Happiness,Gratitude / Positive Feedback
 1103,Happiness,Gratitude / Positive Feedback
 1104,Anger,Complaint / Dissatisfaction
-1105,Neutral,Suggestion / Idea
+1105,Sadness,Suggestion / Idea
 1106,Anger,Complaint / Dissatisfaction
 1107,Happiness,Gratitude / Positive Feedback
 1108,Happiness,Gratitude / Positive Feedback
@@ -1115,7 +1115,7 @@ index,emotion,category
 1113,Happiness,Gratitude / Positive Feedback
 1114,Happiness,Gratitude / Positive Feedback
 1115,Happiness,Gratitude / Positive Feedback
-1116,Sadness,Gratitude / Positive Feedback
+1116,Happiness,Gratitude / Positive Feedback
 1117,Neutral,Suggestion / Idea
 1118,Happiness,Gratitude / Positive Feedback
 1119,Happiness,Gratitude / Positive Feedback
@@ -1127,25 +1127,25 @@ index,emotion,category
 1125,Anger,Complaint / Dissatisfaction
 1126,Happiness,Gratitude / Positive Feedback
 1127,Happiness,Gratitude / Positive Feedback
-1128,Sadness,Gratitude / Positive Feedback
+1128,Happiness,Gratitude / Positive Feedback
 1129,Neutral,Question / Request for Help
 1130,Happiness,Gratitude / Positive Feedback
-1131,Neutral,Question / Request for Help
-1132,Sadness,Complaint / Dissatisfaction
+1131,Neutral,Suggestion / Idea
+1132,Happiness,Gratitude / Positive Feedback
 1133,Happiness,Gratitude / Positive Feedback
 1134,Happiness,Gratitude / Positive Feedback
 1135,Happiness,Gratitude / Positive Feedback
-1136,Sadness,Complaint / Dissatisfaction
+1136,Happiness,Gratitude / Positive Feedback
 1137,Anger,Complaint / Dissatisfaction
 1138,Happiness,Gratitude / Positive Feedback
-1139,Happiness,Gratitude / Positive Feedback
+1139,Neutral,Neutral Comment
 1140,Happiness,Gratitude / Positive Feedback
 1141,Happiness,Gratitude / Positive Feedback
-1142,Anger,Complaint / Dissatisfaction
+1142,Happiness,Gratitude / Positive Feedback
 1143,Anger,Complaint / Dissatisfaction
 1144,Neutral,Question / Request for Help
 1145,Happiness,Gratitude / Positive Feedback
-1146,Happiness,Gratitude / Positive Feedback
+1146,Happiness,Suggestion / Idea
 1147,Happiness,Gratitude / Positive Feedback
 1148,Anger,Complaint / Dissatisfaction
 1149,Happiness,Gratitude / Positive Feedback
@@ -1157,8 +1157,8 @@ index,emotion,category
 1155,Happiness,Gratitude / Positive Feedback
 1156,Happiness,Gratitude / Positive Feedback
 1157,Happiness,Gratitude / Positive Feedback
-1158,Anger,Complaint / Dissatisfaction
-1159,Neutral,Suggestion / Idea
+1158,Disgust,Complaint / Dissatisfaction
+1159,Happiness,Suggestion / Idea
 1160,Anger,Complaint / Dissatisfaction
 1161,Happiness,Gratitude / Positive Feedback
 1162,Happiness,Gratitude / Positive Feedback
@@ -1167,28 +1167,28 @@ index,emotion,category
 1165,Neutral,Question / Request for Help
 1166,Happiness,Gratitude / Positive Feedback
 1167,Happiness,Gratitude / Positive Feedback
-1168,Anger,Complaint / Dissatisfaction
+1168,Neutral,Neutral Comment
 1169,Anger,Complaint / Dissatisfaction
 1170,Happiness,Gratitude / Positive Feedback
 1171,Happiness,Gratitude / Positive Feedback
 1172,Happiness,Gratitude / Positive Feedback
 1173,Anger,Complaint / Dissatisfaction
-1174,Sadness,Complaint / Dissatisfaction
+1174,Surprise,Gratitude / Positive Feedback
 1175,Happiness,Gratitude / Positive Feedback
 1176,Happiness,Gratitude / Positive Feedback
 1177,Anger,Complaint / Dissatisfaction
 1178,Happiness,Gratitude / Positive Feedback
 1179,Happiness,Gratitude / Positive Feedback
 1180,Happiness,Gratitude / Positive Feedback
-1181,Anger,Complaint / Dissatisfaction
-1182,Sadness,Neutral Comment
+1181,Happiness,Gratitude / Positive Feedback
+1182,Sadness,Complaint / Dissatisfaction
 1183,Happiness,Gratitude / Positive Feedback
-1184,Surprise,Neutral Comment
+1184,Happiness,Gratitude / Positive Feedback
 1185,Anger,Complaint / Dissatisfaction
 1186,Happiness,Gratitude / Positive Feedback
 1187,Happiness,Gratitude / Positive Feedback
-1188,Surprise,Gratitude / Positive Feedback
-1189,Sadness,Question / Request for Help
+1188,Happiness,Gratitude / Positive Feedback
+1189,Anger,Complaint / Dissatisfaction
 1190,Anger,Complaint / Dissatisfaction
 1191,Happiness,Gratitude / Positive Feedback
 1192,Neutral,Neutral Comment
@@ -1205,13 +1205,13 @@ index,emotion,category
 1203,Happiness,Gratitude / Positive Feedback
 1204,Happiness,Gratitude / Positive Feedback
 1205,Happiness,Gratitude / Positive Feedback
-1206,Sadness,Complaint / Dissatisfaction
+1206,Surprise,Neutral Comment
 1207,Happiness,Gratitude / Positive Feedback
 1208,Happiness,Gratitude / Positive Feedback
 1209,Happiness,Gratitude / Positive Feedback
 1210,Anger,Complaint / Dissatisfaction
 1211,Happiness,Gratitude / Positive Feedback
-1212,Sadness,Complaint / Dissatisfaction
+1212,Neutral,Suggestion / Idea
 1213,Happiness,Gratitude / Positive Feedback
 1214,Happiness,Gratitude / Positive Feedback
 1215,Happiness,Gratitude / Positive Feedback
@@ -1221,21 +1221,21 @@ index,emotion,category
 1219,Happiness,Gratitude / Positive Feedback
 1220,Neutral,Question / Request for Help
 1221,Happiness,Gratitude / Positive Feedback
-1222,Anger,Complaint / Dissatisfaction
+1222,Happiness,Gratitude / Positive Feedback
 1223,Neutral,Suggestion / Idea
 1224,Anger,Complaint / Dissatisfaction
 1225,Happiness,Gratitude / Positive Feedback
 1226,Happiness,Gratitude / Positive Feedback
 1227,Anger,Complaint / Dissatisfaction
 1228,Happiness,Gratitude / Positive Feedback
-1229,Anger,Complaint / Dissatisfaction
+1229,Happiness,Gratitude / Positive Feedback
 1230,Happiness,Gratitude / Positive Feedback
 1231,Happiness,Gratitude / Positive Feedback
 1232,Happiness,Gratitude / Positive Feedback
 1233,Happiness,Gratitude / Positive Feedback
 1234,Happiness,Gratitude / Positive Feedback
 1235,Happiness,Gratitude / Positive Feedback
-1236,Neutral,Neutral Comment
+1236,Happiness,Gratitude / Positive Feedback
 1237,Happiness,Gratitude / Positive Feedback
 1238,Happiness,Gratitude / Positive Feedback
 1239,Happiness,Gratitude / Positive Feedback
@@ -1250,20 +1250,20 @@ index,emotion,category
 1248,Happiness,Gratitude / Positive Feedback
 1249,Anger,Complaint / Dissatisfaction
 1250,Happiness,Gratitude / Positive Feedback
-1251,Happiness,Gratitude / Positive Feedback
+1251,Happiness,Suggestion / Idea
 1252,Anger,Complaint / Dissatisfaction
 1253,Happiness,Gratitude / Positive Feedback
-1254,Happiness,Suggestion / Idea
+1254,Happiness,Gratitude / Positive Feedback
 1255,Happiness,Gratitude / Positive Feedback
 1256,Happiness,Gratitude / Positive Feedback
 1257,Happiness,Gratitude / Positive Feedback
 1258,Neutral,Question / Request for Help
-1259,Neutral,Neutral Comment
+1259,Happiness,Gratitude / Positive Feedback
 1260,Anger,Complaint / Dissatisfaction
-1261,Neutral,Neutral Comment
+1261,Neutral,Suggestion / Idea
 1262,Happiness,Gratitude / Positive Feedback
-1263,Anger,Complaint / Dissatisfaction
-1264,Neutral,Suggestion / Idea
+1263,Happiness,Gratitude / Positive Feedback
+1264,Happiness,Gratitude / Positive Feedback
 1265,Neutral,Question / Request for Help
 1266,Sadness,Complaint / Dissatisfaction
 1267,Anger,Complaint / Dissatisfaction
@@ -1274,11 +1274,11 @@ index,emotion,category
 1272,Happiness,Gratitude / Positive Feedback
 1273,Happiness,Gratitude / Positive Feedback
 1274,Happiness,Gratitude / Positive Feedback
-1275,Surprise,Gratitude / Positive Feedback
+1275,Happiness,Gratitude / Positive Feedback
 1276,Anger,Complaint / Dissatisfaction
 1277,Happiness,Gratitude / Positive Feedback
-1278,Surprise,Gratitude / Positive Feedback
-1279,Anger,Complaint / Dissatisfaction
+1278,Happiness,Gratitude / Positive Feedback
+1279,Happiness,Gratitude / Positive Feedback
 1280,Happiness,Gratitude / Positive Feedback
 1281,Happiness,Gratitude / Positive Feedback
 1282,Neutral,Suggestion / Idea
@@ -1287,7 +1287,7 @@ index,emotion,category
 1285,Happiness,Gratitude / Positive Feedback
 1286,Anger,Complaint / Dissatisfaction
 1287,Happiness,Gratitude / Positive Feedback
-1288,Sadness,Neutral Comment
+1288,Sadness,Complaint / Dissatisfaction
 1289,Happiness,Gratitude / Positive Feedback
 1290,Neutral,Question / Request for Help
 1291,Anger,Complaint / Dissatisfaction
@@ -1309,9 +1309,9 @@ index,emotion,category
 1307,Happiness,Gratitude / Positive Feedback
 1308,Anger,Complaint / Dissatisfaction
 1309,Neutral,Suggestion / Idea
-1310,Anger,Complaint / Dissatisfaction
+1310,Neutral,Neutral Comment
 1311,Happiness,Gratitude / Positive Feedback
-1312,Sadness,Neutral Comment
+1312,Sadness,Complaint / Dissatisfaction
 1313,Happiness,Gratitude / Positive Feedback
 1314,Happiness,Gratitude / Positive Feedback
 1315,Anger,Complaint / Dissatisfaction
@@ -1323,7 +1323,7 @@ index,emotion,category
 1321,Happiness,Gratitude / Positive Feedback
 1322,Happiness,Gratitude / Positive Feedback
 1323,Happiness,Gratitude / Positive Feedback
-1324,Anger,Complaint / Dissatisfaction
+1324,Disgust,Complaint / Dissatisfaction
 1325,Happiness,Gratitude / Positive Feedback
 1326,Happiness,Gratitude / Positive Feedback
 1327,Sadness,Complaint / Dissatisfaction
@@ -1338,18 +1338,18 @@ index,emotion,category
 1336,Neutral,Question / Request for Help
 1337,Neutral,Question / Request for Help
 1338,Happiness,Gratitude / Positive Feedback
-1339,Neutral,Neutral Comment
+1339,Happiness,Gratitude / Positive Feedback
 1340,Happiness,Gratitude / Positive Feedback
-1341,Anger,Complaint / Dissatisfaction
+1341,Neutral,Question / Request for Help
 1342,Happiness,Gratitude / Positive Feedback
 1343,Anger,Complaint / Dissatisfaction
 1344,Happiness,Gratitude / Positive Feedback
 1345,Happiness,Gratitude / Positive Feedback
-1346,Anger,Complaint / Dissatisfaction
+1346,Happiness,Gratitude / Positive Feedback
 1347,Happiness,Gratitude / Positive Feedback
 1348,Happiness,Gratitude / Positive Feedback
 1349,Happiness,Gratitude / Positive Feedback
-1350,Sadness,Neutral Comment
+1350,Happiness,Gratitude / Positive Feedback
 1351,Happiness,Gratitude / Positive Feedback
 1352,Happiness,Gratitude / Positive Feedback
 1353,Anger,Complaint / Dissatisfaction
@@ -1376,22 +1376,22 @@ index,emotion,category
 1374,Neutral,Question / Request for Help
 1375,Happiness,Gratitude / Positive Feedback
 1376,Happiness,Gratitude / Positive Feedback
-1377,Sadness,Neutral Comment
-1378,Anger,Question / Request for Help
+1377,Sadness,Complaint / Dissatisfaction
+1378,Anger,Complaint / Dissatisfaction
 1379,Happiness,Gratitude / Positive Feedback
 1380,Happiness,Gratitude / Positive Feedback
-1381,Anger,Complaint / Dissatisfaction
+1381,Happiness,Gratitude / Positive Feedback
 1382,Happiness,Gratitude / Positive Feedback
-1383,Neutral,Question / Request for Help
+1383,Neutral,Suggestion / Idea
 1384,Happiness,Gratitude / Positive Feedback
 1385,Happiness,Gratitude / Positive Feedback
-1386,Sadness,Complaint / Dissatisfaction
+1386,Happiness,Gratitude / Positive Feedback
 1387,Happiness,Gratitude / Positive Feedback
 1388,Happiness,Gratitude / Positive Feedback
 1389,Happiness,Gratitude / Positive Feedback
 1390,Happiness,Gratitude / Positive Feedback
 1391,Anger,Complaint / Dissatisfaction
-1392,Sadness,Neutral Comment
+1392,Happiness,Gratitude / Positive Feedback
 1393,Anger,Complaint / Dissatisfaction
 1394,Neutral,Neutral Comment
 1395,Happiness,Gratitude / Positive Feedback
@@ -1402,41 +1402,41 @@ index,emotion,category
 1400,Happiness,Gratitude / Positive Feedback
 1401,Happiness,Gratitude / Positive Feedback
 1402,Happiness,Gratitude / Positive Feedback
-1403,Sadness,Complaint / Dissatisfaction
+1403,Happiness,Gratitude / Positive Feedback
 1404,Anger,Complaint / Dissatisfaction
 1405,Happiness,Gratitude / Positive Feedback
 1406,Happiness,Gratitude / Positive Feedback
 1407,Anger,Complaint / Dissatisfaction
 1408,Anger,Complaint / Dissatisfaction
-1409,Happiness,Gratitude / Positive Feedback
-1410,Neutral,Neutral Comment
+1409,Happiness,Suggestion / Idea
+1410,Neutral,Suggestion / Idea
 1411,Happiness,Gratitude / Positive Feedback
 1412,Neutral,Neutral Comment
-1413,Surprise,Gratitude / Positive Feedback
+1413,Happiness,Gratitude / Positive Feedback
 1414,Anger,Complaint / Dissatisfaction
 1415,Happiness,Gratitude / Positive Feedback
 1416,Happiness,Gratitude / Positive Feedback
-1417,Neutral,Neutral Comment
+1417,Anger,Complaint / Dissatisfaction
 1418,Anger,Complaint / Dissatisfaction
 1419,Anger,Complaint / Dissatisfaction
 1420,Happiness,Gratitude / Positive Feedback
 1421,Happiness,Gratitude / Positive Feedback
-1422,Happiness,Gratitude / Positive Feedback
+1422,Happiness,Suggestion / Idea
 1423,Happiness,Gratitude / Positive Feedback
-1424,Surprise,Gratitude / Positive Feedback
-1425,Anger,Complaint / Dissatisfaction
+1424,Happiness,Gratitude / Positive Feedback
+1425,Neutral,Suggestion / Idea
 1426,Happiness,Gratitude / Positive Feedback
-1427,Sadness,Neutral Comment
-1428,Neutral,Suggestion / Idea
+1427,Happiness,Gratitude / Positive Feedback
+1428,Happiness,Suggestion / Idea
 1429,Anger,Complaint / Dissatisfaction
 1430,Happiness,Gratitude / Positive Feedback
-1431,Sadness,Complaint / Dissatisfaction
+1431,Happiness,Gratitude / Positive Feedback
 1432,Happiness,Gratitude / Positive Feedback
 1433,Happiness,Gratitude / Positive Feedback
 1434,Happiness,Gratitude / Positive Feedback
 1435,Happiness,Gratitude / Positive Feedback
 1436,Happiness,Gratitude / Positive Feedback
-1437,Fear,Suggestion / Idea
+1437,Anger,Complaint / Dissatisfaction
 1438,Anger,Complaint / Dissatisfaction
 1439,Neutral,Question / Request for Help
 1440,Sadness,Complaint / Dissatisfaction
@@ -1458,10 +1458,10 @@ index,emotion,category
 1456,Anger,Complaint / Dissatisfaction
 1457,Happiness,Gratitude / Positive Feedback
 1458,Happiness,Gratitude / Positive Feedback
-1459,Anger,Complaint / Dissatisfaction
+1459,Sadness,Gratitude / Positive Feedback
 1460,Happiness,Gratitude / Positive Feedback
-1461,Sadness,Neutral Comment
-1462,Neutral,Complaint / Dissatisfaction
+1461,Happiness,Suggestion / Idea
+1462,Neutral,Suggestion / Idea
 1463,Happiness,Gratitude / Positive Feedback
 1464,Happiness,Gratitude / Positive Feedback
 1465,Happiness,Gratitude / Positive Feedback
@@ -1470,23 +1470,23 @@ index,emotion,category
 1468,Anger,Complaint / Dissatisfaction
 1469,Happiness,Suggestion / Idea
 1470,Happiness,Gratitude / Positive Feedback
-1471,Anger,Complaint / Dissatisfaction
+1471,Sadness,Complaint / Dissatisfaction
 1472,Happiness,Gratitude / Positive Feedback
 1473,Happiness,Gratitude / Positive Feedback
 1474,Happiness,Gratitude / Positive Feedback
 1475,Anger,Complaint / Dissatisfaction
-1476,Neutral,Neutral Comment
+1476,Neutral,Suggestion / Idea
 1477,Happiness,Gratitude / Positive Feedback
 1478,Neutral,Question / Request for Help
-1479,Sadness,Gratitude / Positive Feedback
-1480,Anger,Complaint / Dissatisfaction
-1481,Anger,Complaint / Dissatisfaction
+1479,Happiness,Gratitude / Positive Feedback
+1480,Disgust,Complaint / Dissatisfaction
+1481,Neutral,Complaint / Dissatisfaction
 1482,Neutral,Suggestion / Idea
 1483,Happiness,Gratitude / Positive Feedback
 1484,Happiness,Gratitude / Positive Feedback
 1485,Happiness,Gratitude / Positive Feedback
 1486,Sadness,Question / Request for Help
-1487,Anger,Complaint / Dissatisfaction
+1487,Neutral,Suggestion / Idea
 1488,Neutral,Question / Request for Help
 1489,Happiness,Gratitude / Positive Feedback
 1490,Happiness,Gratitude / Positive Feedback
@@ -1505,11 +1505,11 @@ index,emotion,category
 1503,Sadness,Complaint / Dissatisfaction
 1504,Happiness,Gratitude / Positive Feedback
 1505,Neutral,Question / Request for Help
-1506,Neutral,Neutral Comment
-1507,Sadness,Question / Request for Help
+1506,Neutral,Complaint / Dissatisfaction
+1507,Neutral,Question / Request for Help
 1508,Happiness,Gratitude / Positive Feedback
 1509,Happiness,Gratitude / Positive Feedback
-1510,Anger,Complaint / Dissatisfaction
+1510,Happiness,Gratitude / Positive Feedback
 1511,Happiness,Gratitude / Positive Feedback
 1512,Happiness,Gratitude / Positive Feedback
 1513,Anger,Complaint / Dissatisfaction
@@ -1518,15 +1518,15 @@ index,emotion,category
 1516,Neutral,Question / Request for Help
 1517,Happiness,Gratitude / Positive Feedback
 1518,Neutral,Question / Request for Help
-1519,Surprise,Neutral Comment
+1519,Happiness,Gratitude / Positive Feedback
 1520,Happiness,Gratitude / Positive Feedback
 1521,Happiness,Gratitude / Positive Feedback
-1522,Anger,Question / Request for Help
+1522,Anger,Complaint / Dissatisfaction
 1523,Happiness,Gratitude / Positive Feedback
 1524,Happiness,Gratitude / Positive Feedback
 1525,Happiness,Gratitude / Positive Feedback
 1526,Happiness,Gratitude / Positive Feedback
-1527,Anger,Complaint / Dissatisfaction
+1527,Happiness,Gratitude / Positive Feedback
 1528,Happiness,Gratitude / Positive Feedback
 1529,Anger,Complaint / Dissatisfaction
 1530,Happiness,Gratitude / Positive Feedback
@@ -1543,12 +1543,12 @@ index,emotion,category
 1541,Happiness,Gratitude / Positive Feedback
 1542,Happiness,Gratitude / Positive Feedback
 1543,Neutral,Question / Request for Help
-1544,Sadness,Complaint / Dissatisfaction
+1544,Sadness,Gratitude / Positive Feedback
 1545,Happiness,Gratitude / Positive Feedback
-1546,Sadness,Neutral Comment
+1546,Sadness,Gratitude / Positive Feedback
 1547,Happiness,Gratitude / Positive Feedback
-1548,Anger,Complaint / Dissatisfaction
-1549,Neutral,Suggestion / Idea
+1548,Anger,Neutral Comment
+1549,Happiness,Suggestion / Idea
 1550,Happiness,Gratitude / Positive Feedback
 1551,Happiness,Gratitude / Positive Feedback
 1552,Happiness,Gratitude / Positive Feedback
@@ -1557,7 +1557,7 @@ index,emotion,category
 1555,Happiness,Gratitude / Positive Feedback
 1556,Happiness,Gratitude / Positive Feedback
 1557,Happiness,Gratitude / Positive Feedback
-1558,Surprise,Gratitude / Positive Feedback
+1558,Happiness,Gratitude / Positive Feedback
 1559,Anger,Complaint / Dissatisfaction
 1560,Happiness,Gratitude / Positive Feedback
 1561,Happiness,Gratitude / Positive Feedback
@@ -1565,27 +1565,27 @@ index,emotion,category
 1563,Happiness,Gratitude / Positive Feedback
 1564,Anger,Complaint / Dissatisfaction
 1565,Happiness,Gratitude / Positive Feedback
-1566,Happiness,Neutral Comment
-1567,Neutral,Neutral Comment
+1566,Happiness,Gratitude / Positive Feedback
+1567,Happiness,Gratitude / Positive Feedback
 1568,Happiness,Gratitude / Positive Feedback
 1569,Happiness,Gratitude / Positive Feedback
-1570,Neutral,Neutral Comment
+1570,Happiness,Suggestion / Idea
 1571,Happiness,Gratitude / Positive Feedback
 1572,Happiness,Gratitude / Positive Feedback
 1573,Anger,Complaint / Dissatisfaction
 1574,Sadness,Complaint / Dissatisfaction
 1575,Anger,Complaint / Dissatisfaction
-1576,Sadness,Gratitude / Positive Feedback
+1576,Happiness,Gratitude / Positive Feedback
 1577,Happiness,Gratitude / Positive Feedback
 1578,Anger,Complaint / Dissatisfaction
-1579,Neutral,Suggestion / Idea
+1579,Happiness,Suggestion / Idea
 1580,Happiness,Suggestion / Idea
-1581,Anger,Complaint / Dissatisfaction
+1581,Happiness,Gratitude / Positive Feedback
 1582,Happiness,Gratitude / Positive Feedback
 1583,Happiness,Gratitude / Positive Feedback
 1584,Happiness,Gratitude / Positive Feedback
-1585,Sadness,Complaint / Dissatisfaction
-1586,Anger,Complaint / Dissatisfaction
+1585,Sadness,Neutral Comment
+1586,Neutral,Question / Request for Help
 1587,Happiness,Gratitude / Positive Feedback
 1588,Happiness,Gratitude / Positive Feedback
 1589,Happiness,Gratitude / Positive Feedback
@@ -1593,16 +1593,16 @@ index,emotion,category
 1591,Neutral,Question / Request for Help
 1592,Happiness,Gratitude / Positive Feedback
 1593,Happiness,Gratitude / Positive Feedback
-1594,Happiness,Neutral Comment
+1594,Happiness,Gratitude / Positive Feedback
 1595,Anger,Complaint / Dissatisfaction
 1596,Neutral,Question / Request for Help
 1597,Happiness,Gratitude / Positive Feedback
 1598,Anger,Complaint / Dissatisfaction
-1599,Anger,Complaint / Dissatisfaction
+1599,Happiness,Gratitude / Positive Feedback
 1600,Anger,Complaint / Dissatisfaction
 1601,Neutral,Neutral Comment
 1602,Happiness,Gratitude / Positive Feedback
-1603,Sadness,Complaint / Dissatisfaction
+1603,Neutral,Question / Request for Help
 1604,Happiness,Gratitude / Positive Feedback
 1605,Neutral,Question / Request for Help
 1606,Happiness,Gratitude / Positive Feedback
@@ -1611,47 +1611,47 @@ index,emotion,category
 1609,Happiness,Gratitude / Positive Feedback
 1610,Happiness,Gratitude / Positive Feedback
 1611,Neutral,Question / Request for Help
-1612,Anger,Complaint / Dissatisfaction
+1612,Neutral,Suggestion / Idea
 1613,Happiness,Gratitude / Positive Feedback
-1614,Anger,Complaint / Dissatisfaction
-1615,Neutral,Neutral Comment
+1614,Neutral,Complaint / Dissatisfaction
+1615,Happiness,Gratitude / Positive Feedback
 1616,Anger,Complaint / Dissatisfaction
 1617,Happiness,Gratitude / Positive Feedback
 1618,Neutral,Neutral Comment
 1619,Happiness,Gratitude / Positive Feedback
-1620,Anger,Complaint / Dissatisfaction
+1620,Happiness,Gratitude / Positive Feedback
 1621,Happiness,Gratitude / Positive Feedback
 1622,Happiness,Gratitude / Positive Feedback
 1623,Happiness,Gratitude / Positive Feedback
 1624,Happiness,Gratitude / Positive Feedback
 1625,Happiness,Gratitude / Positive Feedback
 1626,Happiness,Gratitude / Positive Feedback
-1627,Sadness,Gratitude / Positive Feedback
+1627,Happiness,Gratitude / Positive Feedback
 1628,Happiness,Gratitude / Positive Feedback
-1629,Sadness,Neutral Comment
-1630,Disgust,Neutral Comment
+1629,Happiness,Suggestion / Idea
+1630,Anger,Complaint / Dissatisfaction
 1631,Happiness,Gratitude / Positive Feedback
 1632,Happiness,Gratitude / Positive Feedback
-1633,Sadness,Gratitude / Positive Feedback
+1633,Happiness,Gratitude / Positive Feedback
 1634,Happiness,Gratitude / Positive Feedback
 1635,Happiness,Gratitude / Positive Feedback
-1636,Neutral,Neutral Comment
+1636,Sadness,Suggestion / Idea
 1637,Anger,Complaint / Dissatisfaction
 1638,Happiness,Gratitude / Positive Feedback
 1639,Anger,Complaint / Dissatisfaction
 1640,Happiness,Gratitude / Positive Feedback
 1641,Anger,Complaint / Dissatisfaction
-1642,Neutral,Neutral Comment
+1642,Neutral,Suggestion / Idea
 1643,Happiness,Gratitude / Positive Feedback
 1644,Anger,Complaint / Dissatisfaction
-1645,Neutral,Gratitude / Positive Feedback
-1646,Sadness,Complaint / Dissatisfaction
+1645,Neutral,Question / Request for Help
+1646,Happiness,Gratitude / Positive Feedback
 1647,Happiness,Gratitude / Positive Feedback
 1648,Happiness,Gratitude / Positive Feedback
 1649,Happiness,Gratitude / Positive Feedback
 1650,Happiness,Gratitude / Positive Feedback
 1651,Happiness,Gratitude / Positive Feedback
-1652,Happiness,Gratitude / Positive Feedback
+1652,Neutral,Suggestion / Idea
 1653,Neutral,Suggestion / Idea
 1654,Anger,Complaint / Dissatisfaction
 1655,Happiness,Gratitude / Positive Feedback
@@ -1661,7 +1661,7 @@ index,emotion,category
 1659,Happiness,Gratitude / Positive Feedback
 1660,Happiness,Gratitude / Positive Feedback
 1661,Anger,Complaint / Dissatisfaction
-1662,Surprise,Gratitude / Positive Feedback
+1662,Happiness,Gratitude / Positive Feedback
 1663,Happiness,Gratitude / Positive Feedback
 1664,Neutral,Suggestion / Idea
 1665,Neutral,Question / Request for Help
@@ -1669,18 +1669,18 @@ index,emotion,category
 1667,Anger,Complaint / Dissatisfaction
 1668,Anger,Complaint / Dissatisfaction
 1669,Anger,Complaint / Dissatisfaction
-1670,Anger,Complaint / Dissatisfaction
+1670,Happiness,Gratitude / Positive Feedback
 1671,Happiness,Gratitude / Positive Feedback
 1672,Happiness,Gratitude / Positive Feedback
 1673,Happiness,Gratitude / Positive Feedback
 1674,Anger,Complaint / Dissatisfaction
 1675,Happiness,Gratitude / Positive Feedback
 1676,Happiness,Gratitude / Positive Feedback
-1677,Anger,Complaint / Dissatisfaction
-1678,Sadness,Complaint / Dissatisfaction
+1677,Happiness,Gratitude / Positive Feedback
+1678,Disgust,Complaint / Dissatisfaction
 1679,Neutral,Suggestion / Idea
 1680,Happiness,Gratitude / Positive Feedback
-1681,Sadness,Gratitude / Positive Feedback
+1681,Happiness,Gratitude / Positive Feedback
 1682,Happiness,Gratitude / Positive Feedback
 1683,Happiness,Gratitude / Positive Feedback
 1684,Happiness,Gratitude / Positive Feedback
@@ -1691,27 +1691,27 @@ index,emotion,category
 1689,Happiness,Gratitude / Positive Feedback
 1690,Anger,Complaint / Dissatisfaction
 1691,Happiness,Gratitude / Positive Feedback
-1692,Anger,Complaint / Dissatisfaction
+1692,Anger,Suggestion / Idea
 1693,Happiness,Gratitude / Positive Feedback
 1694,Happiness,Gratitude / Positive Feedback
 1695,Happiness,Gratitude / Positive Feedback
 1696,Anger,Complaint / Dissatisfaction
 1697,Happiness,Gratitude / Positive Feedback
-1698,Happiness,Gratitude / Positive Feedback
+1698,Happiness,Suggestion / Idea
 1699,Happiness,Gratitude / Positive Feedback
 1700,Happiness,Gratitude / Positive Feedback
 1701,Anger,Complaint / Dissatisfaction
 1702,Happiness,Gratitude / Positive Feedback
 1703,Happiness,Gratitude / Positive Feedback
-1704,Sadness,Neutral Comment
-1705,Anger,Complaint / Dissatisfaction
+1704,Happiness,Gratitude / Positive Feedback
+1705,Neutral,Gratitude / Positive Feedback
 1706,Happiness,Gratitude / Positive Feedback
 1707,Happiness,Gratitude / Positive Feedback
 1708,Happiness,Gratitude / Positive Feedback
 1709,Happiness,Gratitude / Positive Feedback
 1710,Happiness,Gratitude / Positive Feedback
 1711,Happiness,Gratitude / Positive Feedback
-1712,Happiness,Neutral Comment
+1712,Neutral,Neutral Comment
 1713,Happiness,Gratitude / Positive Feedback
 1714,Happiness,Gratitude / Positive Feedback
 1715,Happiness,Gratitude / Positive Feedback
@@ -1723,43 +1723,43 @@ index,emotion,category
 1721,Happiness,Gratitude / Positive Feedback
 1722,Happiness,Gratitude / Positive Feedback
 1723,Anger,Complaint / Dissatisfaction
-1724,Sadness,Complaint / Dissatisfaction
+1724,Disgust,Complaint / Dissatisfaction
 1725,Neutral,Question / Request for Help
 1726,Neutral,Question / Request for Help
 1727,Neutral,Question / Request for Help
 1728,Happiness,Gratitude / Positive Feedback
 1729,Happiness,Gratitude / Positive Feedback
 1730,Happiness,Gratitude / Positive Feedback
-1731,Anger,Complaint / Dissatisfaction
+1731,Happiness,Gratitude / Positive Feedback
 1732,Happiness,Gratitude / Positive Feedback
-1733,Anger,Complaint / Dissatisfaction
+1733,Neutral,Suggestion / Idea
 1734,Happiness,Gratitude / Positive Feedback
-1735,Neutral,Neutral Comment
+1735,Happiness,Gratitude / Positive Feedback
 1736,Happiness,Gratitude / Positive Feedback
 1737,Happiness,Gratitude / Positive Feedback
 1738,Neutral,Neutral Comment
 1739,Happiness,Gratitude / Positive Feedback
 1740,Happiness,Gratitude / Positive Feedback
-1741,Sadness,Complaint / Dissatisfaction
+1741,Sadness,Suggestion / Idea
 1742,Happiness,Gratitude / Positive Feedback
 1743,Happiness,Gratitude / Positive Feedback
 1744,Happiness,Gratitude / Positive Feedback
 1745,Happiness,Gratitude / Positive Feedback
-1746,Sadness,Gratitude / Positive Feedback
+1746,Happiness,Gratitude / Positive Feedback
 1747,Anger,Complaint / Dissatisfaction
 1748,Anger,Complaint / Dissatisfaction
 1749,Happiness,Gratitude / Positive Feedback
-1750,Anger,Complaint / Dissatisfaction
-1751,Happiness,Suggestion / Idea
+1750,Neutral,Neutral Comment
+1751,Happiness,Gratitude / Positive Feedback
 1752,Happiness,Gratitude / Positive Feedback
 1753,Happiness,Gratitude / Positive Feedback
 1754,Anger,Complaint / Dissatisfaction
 1755,Happiness,Gratitude / Positive Feedback
 1756,Happiness,Gratitude / Positive Feedback
-1757,Anger,Complaint / Dissatisfaction
-1758,Surprise,Neutral Comment
-1759,Sadness,Complaint / Dissatisfaction
-1760,Anger,Complaint / Dissatisfaction
+1757,Happiness,Gratitude / Positive Feedback
+1758,Sadness,Complaint / Dissatisfaction
+1759,Anger,Complaint / Dissatisfaction
+1760,Happiness,Gratitude / Positive Feedback
 1761,Anger,Complaint / Dissatisfaction
 1762,Happiness,Gratitude / Positive Feedback
 1763,Happiness,Gratitude / Positive Feedback
@@ -1770,14 +1770,14 @@ index,emotion,category
 1768,Happiness,Gratitude / Positive Feedback
 1769,Anger,Complaint / Dissatisfaction
 1770,Happiness,Gratitude / Positive Feedback
-1771,Anger,Complaint / Dissatisfaction
+1771,Sadness,Complaint / Dissatisfaction
 1772,Anger,Complaint / Dissatisfaction
-1773,Anger,Complaint / Dissatisfaction
+1773,Sadness,Complaint / Dissatisfaction
 1774,Happiness,Gratitude / Positive Feedback
 1775,Happiness,Gratitude / Positive Feedback
-1776,Neutral,Gratitude / Positive Feedback
+1776,Neutral,Question / Request for Help
 1777,Happiness,Gratitude / Positive Feedback
-1778,Anger,Complaint / Dissatisfaction
+1778,Neutral,Suggestion / Idea
 1779,Happiness,Gratitude / Positive Feedback
 1780,Happiness,Gratitude / Positive Feedback
 1781,Happiness,Gratitude / Positive Feedback
@@ -1785,9 +1785,9 @@ index,emotion,category
 1783,Anger,Complaint / Dissatisfaction
 1784,Anger,Complaint / Dissatisfaction
 1785,Happiness,Gratitude / Positive Feedback
-1786,Happiness,Neutral Comment
+1786,Happiness,Gratitude / Positive Feedback
 1787,Happiness,Gratitude / Positive Feedback
-1788,Neutral,Suggestion / Idea
+1788,Happiness,Suggestion / Idea
 1789,Neutral,Question / Request for Help
 1790,Happiness,Gratitude / Positive Feedback
 1791,Neutral,Question / Request for Help
@@ -1799,16 +1799,16 @@ index,emotion,category
 1797,Happiness,Gratitude / Positive Feedback
 1798,Happiness,Gratitude / Positive Feedback
 1799,Anger,Complaint / Dissatisfaction
-1800,Anger,Complaint / Dissatisfaction
+1800,Happiness,Gratitude / Positive Feedback
 1801,Anger,Complaint / Dissatisfaction
 1802,Happiness,Gratitude / Positive Feedback
 1803,Anger,Complaint / Dissatisfaction
 1804,Happiness,Gratitude / Positive Feedback
 1805,Happiness,Gratitude / Positive Feedback
-1806,Anger,Complaint / Dissatisfaction
+1806,Happiness,Gratitude / Positive Feedback
 1807,Neutral,Neutral Comment
 1808,Happiness,Gratitude / Positive Feedback
-1809,Anger,Complaint / Dissatisfaction
+1809,Happiness,Gratitude / Positive Feedback
 1810,Happiness,Gratitude / Positive Feedback
 1811,Happiness,Gratitude / Positive Feedback
 1812,Anger,Complaint / Dissatisfaction
@@ -1816,10 +1816,10 @@ index,emotion,category
 1814,Happiness,Gratitude / Positive Feedback
 1815,Happiness,Gratitude / Positive Feedback
 1816,Happiness,Gratitude / Positive Feedback
-1817,Neutral,Neutral Comment
+1817,Happiness,Gratitude / Positive Feedback
 1818,Anger,Complaint / Dissatisfaction
-1819,Sadness,Complaint / Dissatisfaction
-1820,Neutral,Neutral Comment
+1819,Anger,Complaint / Dissatisfaction
+1820,Happiness,Gratitude / Positive Feedback
 1821,Anger,Complaint / Dissatisfaction
 1822,Happiness,Gratitude / Positive Feedback
 1823,Happiness,Gratitude / Positive Feedback
@@ -1830,33 +1830,33 @@ index,emotion,category
 1828,Happiness,Gratitude / Positive Feedback
 1829,Anger,Complaint / Dissatisfaction
 1830,Anger,Complaint / Dissatisfaction
-1831,Neutral,Neutral Comment
+1831,Happiness,Gratitude / Positive Feedback
 1832,Neutral,Neutral Comment
-1833,Neutral,Suggestion / Idea
-1834,Anger,Complaint / Dissatisfaction
+1833,Happiness,Suggestion / Idea
+1834,Anger,Gratitude / Positive Feedback
 1835,Happiness,Gratitude / Positive Feedback
-1836,Surprise,Gratitude / Positive Feedback
+1836,Happiness,Gratitude / Positive Feedback
 1837,Happiness,Gratitude / Positive Feedback
-1838,Sadness,Complaint / Dissatisfaction
+1838,Sadness,Gratitude / Positive Feedback
 1839,Happiness,Gratitude / Positive Feedback
 1840,Anger,Complaint / Dissatisfaction
 1841,Happiness,Gratitude / Positive Feedback
 1842,Happiness,Gratitude / Positive Feedback
 1843,Anger,Complaint / Dissatisfaction
-1844,Surprise,Neutral Comment
+1844,Anger,Complaint / Dissatisfaction
 1845,Happiness,Gratitude / Positive Feedback
-1846,Sadness,Complaint / Dissatisfaction
+1846,Anger,Complaint / Dissatisfaction
 1847,Anger,Complaint / Dissatisfaction
 1848,Happiness,Gratitude / Positive Feedback
 1849,Happiness,Gratitude / Positive Feedback
-1850,Neutral,Suggestion / Idea
+1850,Happiness,Suggestion / Idea
 1851,Neutral,Suggestion / Idea
-1852,Happiness,Gratitude / Positive Feedback
+1852,Sadness,Gratitude / Positive Feedback
 1853,Happiness,Gratitude / Positive Feedback
 1854,Happiness,Gratitude / Positive Feedback
 1855,Neutral,Question / Request for Help
 1856,Happiness,Gratitude / Positive Feedback
-1857,Happiness,Neutral Comment
+1857,Happiness,Gratitude / Positive Feedback
 1858,Happiness,Gratitude / Positive Feedback
 1859,Happiness,Gratitude / Positive Feedback
 1860,Anger,Complaint / Dissatisfaction
@@ -1865,24 +1865,24 @@ index,emotion,category
 1863,Anger,Complaint / Dissatisfaction
 1864,Happiness,Gratitude / Positive Feedback
 1865,Happiness,Gratitude / Positive Feedback
-1866,Sadness,Complaint / Dissatisfaction
+1866,Neutral,Neutral Comment
 1867,Happiness,Gratitude / Positive Feedback
-1868,Neutral,Neutral Comment
+1868,Anger,Complaint / Dissatisfaction
 1869,Happiness,Gratitude / Positive Feedback
 1870,Anger,Complaint / Dissatisfaction
 1871,Happiness,Gratitude / Positive Feedback
 1872,Happiness,Gratitude / Positive Feedback
-1873,Happiness,Neutral Comment
+1873,Happiness,Gratitude / Positive Feedback
 1874,Happiness,Gratitude / Positive Feedback
 1875,Happiness,Gratitude / Positive Feedback
 1876,Happiness,Gratitude / Positive Feedback
 1877,Happiness,Gratitude / Positive Feedback
 1878,Happiness,Gratitude / Positive Feedback
-1879,Neutral,Neutral Comment
+1879,Happiness,Suggestion / Idea
 1880,Happiness,Gratitude / Positive Feedback
-1881,Anger,Complaint / Dissatisfaction
+1881,Neutral,Neutral Comment
 1882,Happiness,Gratitude / Positive Feedback
-1883,Anger,Complaint / Dissatisfaction
+1883,Neutral,Suggestion / Idea
 1884,Happiness,Gratitude / Positive Feedback
 1885,Happiness,Gratitude / Positive Feedback
 1886,Happiness,Suggestion / Idea
@@ -1890,17 +1890,17 @@ index,emotion,category
 1888,Happiness,Gratitude / Positive Feedback
 1889,Happiness,Gratitude / Positive Feedback
 1890,Happiness,Gratitude / Positive Feedback
-1891,Sadness,Complaint / Dissatisfaction
+1891,Happiness,Suggestion / Idea
 1892,Neutral,Question / Request for Help
-1893,Neutral,Suggestion / Idea
+1893,Happiness,Suggestion / Idea
 1894,Neutral,Suggestion / Idea
 1895,Happiness,Gratitude / Positive Feedback
-1896,Anger,Complaint / Dissatisfaction
-1897,Sadness,Complaint / Dissatisfaction
+1896,Neutral,Suggestion / Idea
+1897,Happiness,Suggestion / Idea
 1898,Happiness,Gratitude / Positive Feedback
 1899,Anger,Complaint / Dissatisfaction
 1900,Happiness,Gratitude / Positive Feedback
-1901,Neutral,Neutral Comment
+1901,Neutral,Suggestion / Idea
 1902,Neutral,Suggestion / Idea
 1903,Happiness,Gratitude / Positive Feedback
 1904,Happiness,Gratitude / Positive Feedback
@@ -1908,11 +1908,11 @@ index,emotion,category
 1906,Happiness,Gratitude / Positive Feedback
 1907,Happiness,Gratitude / Positive Feedback
 1908,Happiness,Gratitude / Positive Feedback
-1909,Neutral,Neutral Comment
+1909,Happiness,Gratitude / Positive Feedback
 1910,Happiness,Gratitude / Positive Feedback
 1911,Happiness,Gratitude / Positive Feedback
-1912,Neutral,Neutral Comment
-1913,Sadness,Neutral Comment
+1912,Happiness,Gratitude / Positive Feedback
+1913,Neutral,Neutral Comment
 1914,Neutral,Neutral Comment
 1915,Happiness,Gratitude / Positive Feedback
 1916,Happiness,Gratitude / Positive Feedback
@@ -1923,7 +1923,7 @@ index,emotion,category
 1921,Happiness,Gratitude / Positive Feedback
 1922,Anger,Complaint / Dissatisfaction
 1923,Neutral,Question / Request for Help
-1924,Anger,Question / Request for Help
+1924,Happiness,Gratitude / Positive Feedback
 1925,Anger,Complaint / Dissatisfaction
 1926,Happiness,Gratitude / Positive Feedback
 1927,Anger,Complaint / Dissatisfaction
@@ -1933,15 +1933,15 @@ index,emotion,category
 1931,Anger,Complaint / Dissatisfaction
 1932,Happiness,Gratitude / Positive Feedback
 1933,Sadness,Complaint / Dissatisfaction
-1934,Anger,Complaint / Dissatisfaction
+1934,Neutral,Neutral Comment
 1935,Anger,Complaint / Dissatisfaction
-1936,Neutral,Neutral Comment
-1937,Surprise,Gratitude / Positive Feedback
+1936,Anger,Complaint / Dissatisfaction
+1937,Happiness,Gratitude / Positive Feedback
 1938,Anger,Complaint / Dissatisfaction
 1939,Happiness,Gratitude / Positive Feedback
-1940,Surprise,Gratitude / Positive Feedback
-1941,Anger,Complaint / Dissatisfaction
-1942,Sadness,Complaint / Dissatisfaction
+1940,Happiness,Gratitude / Positive Feedback
+1941,Neutral,Suggestion / Idea
+1942,Happiness,Gratitude / Positive Feedback
 1943,Happiness,Gratitude / Positive Feedback
 1944,Happiness,Gratitude / Positive Feedback
 1945,Happiness,Gratitude / Positive Feedback
@@ -1957,13 +1957,13 @@ index,emotion,category
 1955,Happiness,Gratitude / Positive Feedback
 1956,Happiness,Gratitude / Positive Feedback
 1957,Anger,Complaint / Dissatisfaction
-1958,Happiness,Gratitude / Positive Feedback
+1958,Happiness,Suggestion / Idea
 1959,Sadness,Complaint / Dissatisfaction
 1960,Happiness,Gratitude / Positive Feedback
 1961,Happiness,Gratitude / Positive Feedback
 1962,Happiness,Gratitude / Positive Feedback
 1963,Happiness,Gratitude / Positive Feedback
-1964,Anger,Complaint / Dissatisfaction
+1964,Sadness,Complaint / Dissatisfaction
 1965,Anger,Complaint / Dissatisfaction
 1966,Happiness,Gratitude / Positive Feedback
 1967,Happiness,Gratitude / Positive Feedback
@@ -1980,9 +1980,9 @@ index,emotion,category
 1978,Anger,Complaint / Dissatisfaction
 1979,Happiness,Gratitude / Positive Feedback
 1980,Happiness,Gratitude / Positive Feedback
-1981,Anger,Complaint / Dissatisfaction
-1982,Sadness,Suggestion / Idea
-1983,Happiness,Neutral Comment
+1981,Happiness,Gratitude / Positive Feedback
+1982,Happiness,Gratitude / Positive Feedback
+1983,Happiness,Gratitude / Positive Feedback
 1984,Happiness,Gratitude / Positive Feedback
 1985,Happiness,Gratitude / Positive Feedback
 1986,Happiness,Gratitude / Positive Feedback
@@ -1993,16 +1993,16 @@ index,emotion,category
 1991,Neutral,Suggestion / Idea
 1992,Happiness,Gratitude / Positive Feedback
 1993,Happiness,Gratitude / Positive Feedback
-1994,Surprise,Neutral Comment
+1994,Neutral,Neutral Comment
 1995,Anger,Complaint / Dissatisfaction
-1996,Happiness,Gratitude / Positive Feedback
+1996,Happiness,Suggestion / Idea
 1997,Neutral,Suggestion / Idea
 1998,Happiness,Gratitude / Positive Feedback
 1999,Neutral,Suggestion / Idea
 2000,Anger,Complaint / Dissatisfaction
-2001,Anger,Complaint / Dissatisfaction
+2001,Neutral,Question / Request for Help
 2002,Happiness,Gratitude / Positive Feedback
-2003,Neutral,Suggestion / Idea
+2003,Anger,Complaint / Dissatisfaction
 2004,Anger,Complaint / Dissatisfaction
 2005,Happiness,Gratitude / Positive Feedback
 2006,Anger,Complaint / Dissatisfaction
@@ -2010,48 +2010,48 @@ index,emotion,category
 2008,Happiness,Gratitude / Positive Feedback
 2009,Happiness,Gratitude / Positive Feedback
 2010,Happiness,Gratitude / Positive Feedback
-2011,Neutral,Question / Request for Help
+2011,Neutral,Suggestion / Idea
 2012,Anger,Complaint / Dissatisfaction
 2013,Anger,Complaint / Dissatisfaction
-2014,Sadness,Complaint / Dissatisfaction
+2014,Happiness,Gratitude / Positive Feedback
 2015,Anger,Complaint / Dissatisfaction
-2016,Anger,Complaint / Dissatisfaction
-2017,Neutral,Neutral Comment
+2016,Disgust,Complaint / Dissatisfaction
+2017,Neutral,Gratitude / Positive Feedback
 2018,Happiness,Gratitude / Positive Feedback
 2019,Happiness,Gratitude / Positive Feedback
 2020,Happiness,Gratitude / Positive Feedback
 2021,Neutral,Question / Request for Help
-2022,Sadness,Gratitude / Positive Feedback
-2023,Surprise,Gratitude / Positive Feedback
+2022,Sadness,Question / Request for Help
+2023,Happiness,Gratitude / Positive Feedback
 2024,Anger,Complaint / Dissatisfaction
 2025,Happiness,Gratitude / Positive Feedback
-2026,Sadness,Complaint / Dissatisfaction
+2026,Neutral,Suggestion / Idea
 2027,Anger,Complaint / Dissatisfaction
 2028,Happiness,Gratitude / Positive Feedback
 2029,Happiness,Suggestion / Idea
 2030,Sadness,Complaint / Dissatisfaction
 2031,Neutral,Neutral Comment
-2032,Anger,Complaint / Dissatisfaction
-2033,Sadness,Complaint / Dissatisfaction
+2032,Happiness,Gratitude / Positive Feedback
+2033,Happiness,Neutral Comment
 2034,Happiness,Gratitude / Positive Feedback
-2035,Happiness,Gratitude / Positive Feedback
-2036,Neutral,Neutral Comment
+2035,Anger,Complaint / Dissatisfaction
+2036,Neutral,Suggestion / Idea
 2037,Happiness,Gratitude / Positive Feedback
 2038,Happiness,Gratitude / Positive Feedback
 2039,Neutral,Suggestion / Idea
 2040,Anger,Complaint / Dissatisfaction
 2041,Happiness,Gratitude / Positive Feedback
-2042,Anger,Complaint / Dissatisfaction
+2042,Happiness,Gratitude / Positive Feedback
 2043,Anger,Complaint / Dissatisfaction
 2044,Happiness,Gratitude / Positive Feedback
-2045,Neutral,Neutral Comment
+2045,Happiness,Gratitude / Positive Feedback
 2046,Happiness,Gratitude / Positive Feedback
 2047,Happiness,Gratitude / Positive Feedback
 2048,Happiness,Gratitude / Positive Feedback
 2049,Happiness,Gratitude / Positive Feedback
 2050,Anger,Complaint / Dissatisfaction
 2051,Happiness,Gratitude / Positive Feedback
-2052,Anger,Complaint / Dissatisfaction
+2052,Happiness,Gratitude / Positive Feedback
 2053,Happiness,Gratitude / Positive Feedback
 2054,Happiness,Gratitude / Positive Feedback
 2055,Happiness,Gratitude / Positive Feedback
@@ -2060,14 +2060,14 @@ index,emotion,category
 2058,Happiness,Gratitude / Positive Feedback
 2059,Anger,Complaint / Dissatisfaction
 2060,Happiness,Gratitude / Positive Feedback
-2061,Anger,Complaint / Dissatisfaction
+2061,Neutral,Question / Request for Help
 2062,Happiness,Gratitude / Positive Feedback
 2063,Happiness,Gratitude / Positive Feedback
 2064,Happiness,Gratitude / Positive Feedback
 2065,Happiness,Gratitude / Positive Feedback
-2066,Anger,Complaint / Dissatisfaction
+2066,Happiness,Suggestion / Idea
 2067,Happiness,Gratitude / Positive Feedback
-2068,Neutral,Gratitude / Positive Feedback
+2068,Happiness,Gratitude / Positive Feedback
 2069,Happiness,Gratitude / Positive Feedback
 2070,Happiness,Gratitude / Positive Feedback
 2071,Happiness,Gratitude / Positive Feedback
@@ -2075,28 +2075,28 @@ index,emotion,category
 2073,Happiness,Gratitude / Positive Feedback
 2074,Happiness,Gratitude / Positive Feedback
 2075,Neutral,Question / Request for Help
-2076,Neutral,Gratitude / Positive Feedback
+2076,Happiness,Gratitude / Positive Feedback
 2077,Anger,Complaint / Dissatisfaction
 2078,Happiness,Gratitude / Positive Feedback
-2079,Anger,Complaint / Dissatisfaction
+2079,Sadness,Complaint / Dissatisfaction
 2080,Happiness,Gratitude / Positive Feedback
 2081,Anger,Complaint / Dissatisfaction
-2082,Surprise,Complaint / Dissatisfaction
+2082,Happiness,Gratitude / Positive Feedback
 2083,Anger,Complaint / Dissatisfaction
 2084,Disgust,Complaint / Dissatisfaction
 2085,Happiness,Gratitude / Positive Feedback
 2086,Happiness,Gratitude / Positive Feedback
-2087,Surprise,Gratitude / Positive Feedback
+2087,Happiness,Gratitude / Positive Feedback
 2088,Anger,Complaint / Dissatisfaction
 2089,Happiness,Gratitude / Positive Feedback
 2090,Happiness,Gratitude / Positive Feedback
 2091,Happiness,Gratitude / Positive Feedback
 2092,Happiness,Gratitude / Positive Feedback
 2093,Happiness,Gratitude / Positive Feedback
-2094,Sadness,Neutral Comment
-2095,Sadness,Complaint / Dissatisfaction
+2094,Happiness,Gratitude / Positive Feedback
+2095,Happiness,Gratitude / Positive Feedback
 2096,Happiness,Gratitude / Positive Feedback
-2097,Happiness,Suggestion / Idea
+2097,Happiness,Gratitude / Positive Feedback
 2098,Anger,Complaint / Dissatisfaction
 2099,Happiness,Gratitude / Positive Feedback
 2100,Happiness,Suggestion / Idea
@@ -2121,14 +2121,14 @@ index,emotion,category
 2119,Anger,Complaint / Dissatisfaction
 2120,Anger,Complaint / Dissatisfaction
 2121,Neutral,Question / Request for Help
-2122,Neutral,Neutral Comment
+2122,Happiness,Gratitude / Positive Feedback
 2123,Anger,Complaint / Dissatisfaction
 2124,Happiness,Gratitude / Positive Feedback
 2125,Happiness,Gratitude / Positive Feedback
 2126,Happiness,Gratitude / Positive Feedback
-2127,Anger,Complaint / Dissatisfaction
+2127,Happiness,Gratitude / Positive Feedback
 2128,Anger,Complaint / Dissatisfaction
-2129,Anger,Complaint / Dissatisfaction
+2129,Happiness,Suggestion / Idea
 2130,Anger,Complaint / Dissatisfaction
 2131,Happiness,Gratitude / Positive Feedback
 2132,Anger,Complaint / Dissatisfaction
@@ -2143,35 +2143,35 @@ index,emotion,category
 2141,Happiness,Gratitude / Positive Feedback
 2142,Happiness,Gratitude / Positive Feedback
 2143,Anger,Complaint / Dissatisfaction
-2144,Surprise,Gratitude / Positive Feedback
-2145,Neutral,Gratitude / Positive Feedback
+2144,Happiness,Gratitude / Positive Feedback
+2145,Happiness,Gratitude / Positive Feedback
 2146,Happiness,Gratitude / Positive Feedback
 2147,Anger,Complaint / Dissatisfaction
 2148,Happiness,Gratitude / Positive Feedback
 2149,Happiness,Gratitude / Positive Feedback
 2150,Happiness,Gratitude / Positive Feedback
-2151,Sadness,Complaint / Dissatisfaction
+2151,Anger,Complaint / Dissatisfaction
 2152,Anger,Complaint / Dissatisfaction
 2153,Happiness,Gratitude / Positive Feedback
 2154,Happiness,Gratitude / Positive Feedback
 2155,Happiness,Gratitude / Positive Feedback
 2156,Happiness,Gratitude / Positive Feedback
-2157,Sadness,Gratitude / Positive Feedback
+2157,Happiness,Gratitude / Positive Feedback
 2158,Happiness,Gratitude / Positive Feedback
-2159,Sadness,Neutral Comment
+2159,Sadness,Gratitude / Positive Feedback
 2160,Happiness,Gratitude / Positive Feedback
 2161,Anger,Complaint / Dissatisfaction
-2162,Anger,Complaint / Dissatisfaction
+2162,Happiness,Gratitude / Positive Feedback
 2163,Happiness,Gratitude / Positive Feedback
 2164,Happiness,Gratitude / Positive Feedback
 2165,Happiness,Gratitude / Positive Feedback
 2166,Happiness,Gratitude / Positive Feedback
 2167,Happiness,Gratitude / Positive Feedback
 2168,Neutral,Neutral Comment
-2169,Anger,Complaint / Dissatisfaction
+2169,Anger,Suggestion / Idea
 2170,Happiness,Gratitude / Positive Feedback
 2171,Happiness,Gratitude / Positive Feedback
-2172,Sadness,Neutral Comment
+2172,Sadness,Complaint / Dissatisfaction
 2173,Happiness,Gratitude / Positive Feedback
 2174,Happiness,Gratitude / Positive Feedback
 2175,Sadness,Complaint / Dissatisfaction
@@ -2179,18 +2179,18 @@ index,emotion,category
 2177,Anger,Complaint / Dissatisfaction
 2178,Happiness,Gratitude / Positive Feedback
 2179,Happiness,Gratitude / Positive Feedback
-2180,Sadness,Complaint / Dissatisfaction
+2180,Anger,Complaint / Dissatisfaction
 2181,Happiness,Gratitude / Positive Feedback
 2182,Happiness,Suggestion / Idea
 2183,Happiness,Gratitude / Positive Feedback
-2184,Neutral,Neutral Comment
+2184,Sadness,Complaint / Dissatisfaction
 2185,Happiness,Gratitude / Positive Feedback
-2186,Sadness,Complaint / Dissatisfaction
-2187,Sadness,Neutral Comment
-2188,Surprise,Gratitude / Positive Feedback
+2186,Anger,Complaint / Dissatisfaction
+2187,Sadness,Suggestion / Idea
+2188,Happiness,Gratitude / Positive Feedback
 2189,Happiness,Gratitude / Positive Feedback
 2190,Happiness,Gratitude / Positive Feedback
-2191,Anger,Complaint / Dissatisfaction
+2191,Happiness,Gratitude / Positive Feedback
 2192,Happiness,Gratitude / Positive Feedback
 2193,Happiness,Gratitude / Positive Feedback
 2194,Happiness,Gratitude / Positive Feedback
@@ -2198,14 +2198,14 @@ index,emotion,category
 2196,Happiness,Gratitude / Positive Feedback
 2197,Happiness,Gratitude / Positive Feedback
 2198,Anger,Complaint / Dissatisfaction
-2199,Happiness,Suggestion / Idea
+2199,Happiness,Gratitude / Positive Feedback
 2200,Happiness,Gratitude / Positive Feedback
 2201,Happiness,Gratitude / Positive Feedback
 2202,Anger,Complaint / Dissatisfaction
 2203,Happiness,Gratitude / Positive Feedback
-2204,Anger,Complaint / Dissatisfaction
+2204,Disgust,Gratitude / Positive Feedback
 2205,Happiness,Gratitude / Positive Feedback
-2206,Sadness,Complaint / Dissatisfaction
+2206,Happiness,Gratitude / Positive Feedback
 2207,Happiness,Gratitude / Positive Feedback
 2208,Happiness,Gratitude / Positive Feedback
 2209,Happiness,Gratitude / Positive Feedback
@@ -2221,16 +2221,16 @@ index,emotion,category
 2219,Happiness,Gratitude / Positive Feedback
 2220,Happiness,Gratitude / Positive Feedback
 2221,Happiness,Gratitude / Positive Feedback
-2222,Sadness,Complaint / Dissatisfaction
+2222,Surprise,Gratitude / Positive Feedback
 2223,Happiness,Gratitude / Positive Feedback
-2224,Neutral,Neutral Comment
+2224,Sadness,Suggestion / Idea
 2225,Neutral,Neutral Comment
 2226,Happiness,Gratitude / Positive Feedback
 2227,Happiness,Gratitude / Positive Feedback
 2228,Happiness,Gratitude / Positive Feedback
 2229,Neutral,Question / Request for Help
 2230,Happiness,Gratitude / Positive Feedback
-2231,Anger,Complaint / Dissatisfaction
+2231,Neutral,Neutral Comment
 2232,Happiness,Gratitude / Positive Feedback
 2233,Happiness,Gratitude / Positive Feedback
 2234,Happiness,Gratitude / Positive Feedback
@@ -2243,18 +2243,18 @@ index,emotion,category
 2241,Happiness,Gratitude / Positive Feedback
 2242,Happiness,Gratitude / Positive Feedback
 2243,Anger,Complaint / Dissatisfaction
-2244,Anger,Complaint / Dissatisfaction
+2244,Sadness,Complaint / Dissatisfaction
 2245,Happiness,Gratitude / Positive Feedback
 2246,Happiness,Gratitude / Positive Feedback
 2247,Neutral,Neutral Comment
 2248,Happiness,Gratitude / Positive Feedback
 2249,Happiness,Gratitude / Positive Feedback
-2250,Anger,Complaint / Dissatisfaction
+2250,Happiness,Gratitude / Positive Feedback
 2251,Happiness,Gratitude / Positive Feedback
 2252,Anger,Complaint / Dissatisfaction
 2253,Happiness,Gratitude / Positive Feedback
 2254,Neutral,Neutral Comment
-2255,Happiness,Gratitude / Positive Feedback
+2255,Neutral,Suggestion / Idea
 2256,Happiness,Gratitude / Positive Feedback
 2257,Neutral,Question / Request for Help
 2258,Happiness,Gratitude / Positive Feedback
@@ -2273,7 +2273,7 @@ index,emotion,category
 2271,Happiness,Gratitude / Positive Feedback
 2272,Anger,Complaint / Dissatisfaction
 2273,Happiness,Gratitude / Positive Feedback
-2274,Sadness,Neutral Comment
+2274,Neutral,Neutral Comment
 2275,Happiness,Gratitude / Positive Feedback
 2276,Anger,Complaint / Dissatisfaction
 2277,Happiness,Gratitude / Positive Feedback
@@ -2291,20 +2291,20 @@ index,emotion,category
 2289,Happiness,Gratitude / Positive Feedback
 2290,Happiness,Gratitude / Positive Feedback
 2291,Happiness,Gratitude / Positive Feedback
-2292,Sadness,Neutral Comment
+2292,Happiness,Gratitude / Positive Feedback
 2293,Happiness,Gratitude / Positive Feedback
 2294,Happiness,Gratitude / Positive Feedback
 2295,Happiness,Gratitude / Positive Feedback
 2296,Happiness,Gratitude / Positive Feedback
-2297,Neutral,Neutral Comment
+2297,Happiness,Gratitude / Positive Feedback
 2298,Happiness,Gratitude / Positive Feedback
 2299,Happiness,Gratitude / Positive Feedback
 2300,Happiness,Gratitude / Positive Feedback
 2301,Happiness,Gratitude / Positive Feedback
 2302,Neutral,Question / Request for Help
 2303,Sadness,Complaint / Dissatisfaction
-2304,Anger,Complaint / Dissatisfaction
-2305,Sadness,Gratitude / Positive Feedback
+2304,Happiness,Gratitude / Positive Feedback
+2305,Sadness,Complaint / Dissatisfaction
 2306,Anger,Complaint / Dissatisfaction
 2307,Happiness,Gratitude / Positive Feedback
 2308,Happiness,Gratitude / Positive Feedback
@@ -2312,7 +2312,7 @@ index,emotion,category
 2310,Happiness,Gratitude / Positive Feedback
 2311,Happiness,Gratitude / Positive Feedback
 2312,Happiness,Gratitude / Positive Feedback
-2313,Anger,Complaint / Dissatisfaction
+2313,Neutral,Suggestion / Idea
 2314,Anger,Complaint / Dissatisfaction
 2315,Neutral,Neutral Comment
 2316,Happiness,Gratitude / Positive Feedback
@@ -2325,7 +2325,7 @@ index,emotion,category
 2323,Happiness,Gratitude / Positive Feedback
 2324,Neutral,Neutral Comment
 2325,Anger,Complaint / Dissatisfaction
-2326,Neutral,Neutral Comment
+2326,Happiness,Gratitude / Positive Feedback
 2327,Happiness,Gratitude / Positive Feedback
 2328,Happiness,Gratitude / Positive Feedback
 2329,Happiness,Gratitude / Positive Feedback
@@ -2337,7 +2337,7 @@ index,emotion,category
 2335,Happiness,Gratitude / Positive Feedback
 2336,Anger,Complaint / Dissatisfaction
 2337,Happiness,Gratitude / Positive Feedback
-2338,Anger,Complaint / Dissatisfaction
+2338,Happiness,Gratitude / Positive Feedback
 2339,Happiness,Gratitude / Positive Feedback
 2340,Anger,Complaint / Dissatisfaction
 2341,Anger,Complaint / Dissatisfaction
@@ -2345,17 +2345,17 @@ index,emotion,category
 2343,Happiness,Gratitude / Positive Feedback
 2344,Anger,Complaint / Dissatisfaction
 2345,Sadness,Complaint / Dissatisfaction
-2346,Anger,Complaint / Dissatisfaction
+2346,Happiness,Gratitude / Positive Feedback
 2347,Neutral,Neutral Comment
-2348,Anger,Complaint / Dissatisfaction
+2348,Neutral,Suggestion / Idea
 2349,Happiness,Gratitude / Positive Feedback
 2350,Happiness,Gratitude / Positive Feedback
 2351,Sadness,Complaint / Dissatisfaction
 2352,Happiness,Gratitude / Positive Feedback
-2353,Sadness,Question / Request for Help
-2354,Anger,Gratitude / Positive Feedback
+2353,Neutral,Question / Request for Help
+2354,Happiness,Gratitude / Positive Feedback
 2355,Happiness,Gratitude / Positive Feedback
-2356,Neutral,Neutral Comment
+2356,Happiness,Gratitude / Positive Feedback
 2357,Happiness,Gratitude / Positive Feedback
 2358,Happiness,Gratitude / Positive Feedback
 2359,Happiness,Gratitude / Positive Feedback
@@ -2371,16 +2371,16 @@ index,emotion,category
 2369,Happiness,Gratitude / Positive Feedback
 2370,Anger,Complaint / Dissatisfaction
 2371,Neutral,Question / Request for Help
-2372,Anger,Complaint / Dissatisfaction
-2373,Surprise,Neutral Comment
+2372,Happiness,Suggestion / Idea
+2373,Neutral,Neutral Comment
 2374,Anger,Complaint / Dissatisfaction
 2375,Anger,Complaint / Dissatisfaction
 2376,Anger,Complaint / Dissatisfaction
-2377,Neutral,Neutral Comment
+2377,Neutral,Suggestion / Idea
 2378,Anger,Complaint / Dissatisfaction
 2379,Happiness,Gratitude / Positive Feedback
 2380,Happiness,Gratitude / Positive Feedback
-2381,Neutral,Complaint / Dissatisfaction
+2381,Sadness,Suggestion / Idea
 2382,Happiness,Gratitude / Positive Feedback
 2383,Anger,Complaint / Dissatisfaction
 2384,Happiness,Gratitude / Positive Feedback
@@ -2396,7 +2396,7 @@ index,emotion,category
 2394,Happiness,Gratitude / Positive Feedback
 2395,Happiness,Gratitude / Positive Feedback
 2396,Happiness,Gratitude / Positive Feedback
-2397,Sadness,Neutral Comment
+2397,Sadness,Gratitude / Positive Feedback
 2398,Happiness,Gratitude / Positive Feedback
 2399,Anger,Complaint / Dissatisfaction
 2400,Happiness,Gratitude / Positive Feedback
@@ -2412,21 +2412,21 @@ index,emotion,category
 2410,Happiness,Gratitude / Positive Feedback
 2411,Happiness,Gratitude / Positive Feedback
 2412,Happiness,Gratitude / Positive Feedback
-2413,Sadness,Complaint / Dissatisfaction
+2413,Happiness,Gratitude / Positive Feedback
 2414,Happiness,Gratitude / Positive Feedback
 2415,Happiness,Gratitude / Positive Feedback
 2416,Happiness,Gratitude / Positive Feedback
 2417,Happiness,Gratitude / Positive Feedback
-2418,Anger,Complaint / Dissatisfaction
+2418,Happiness,Gratitude / Positive Feedback
 2419,Happiness,Gratitude / Positive Feedback
 2420,Anger,Complaint / Dissatisfaction
 2421,Happiness,Gratitude / Positive Feedback
 2422,Happiness,Gratitude / Positive Feedback
 2423,Anger,Complaint / Dissatisfaction
-2424,Sadness,Complaint / Dissatisfaction
-2425,Neutral,Question / Request for Help
-2426,Neutral,Neutral Comment
-2427,Anger,Complaint / Dissatisfaction
+2424,Happiness,Gratitude / Positive Feedback
+2425,Neutral,Suggestion / Idea
+2426,Happiness,Gratitude / Positive Feedback
+2427,Anger,Neutral Comment
 2428,Happiness,Gratitude / Positive Feedback
 2429,Neutral,Question / Request for Help
 2430,Anger,Complaint / Dissatisfaction
@@ -2441,9 +2441,9 @@ index,emotion,category
 2439,Happiness,Gratitude / Positive Feedback
 2440,Happiness,Gratitude / Positive Feedback
 2441,Happiness,Gratitude / Positive Feedback
-2442,Neutral,Neutral Comment
+2442,Sadness,Complaint / Dissatisfaction
 2443,Happiness,Gratitude / Positive Feedback
-2444,Sadness,Complaint / Dissatisfaction
+2444,Happiness,Gratitude / Positive Feedback
 2445,Happiness,Gratitude / Positive Feedback
 2446,Happiness,Gratitude / Positive Feedback
 2447,Happiness,Gratitude / Positive Feedback
@@ -2453,40 +2453,40 @@ index,emotion,category
 2451,Anger,Complaint / Dissatisfaction
 2452,Anger,Complaint / Dissatisfaction
 2453,Happiness,Gratitude / Positive Feedback
-2454,Happiness,Gratitude / Positive Feedback
+2454,Happiness,Suggestion / Idea
 2455,Happiness,Gratitude / Positive Feedback
 2456,Happiness,Gratitude / Positive Feedback
 2457,Happiness,Gratitude / Positive Feedback
-2458,Anger,Complaint / Dissatisfaction
+2458,Happiness,Gratitude / Positive Feedback
 2459,Happiness,Gratitude / Positive Feedback
-2460,Sadness,Neutral Comment
+2460,Happiness,Gratitude / Positive Feedback
 2461,Happiness,Gratitude / Positive Feedback
 2462,Happiness,Gratitude / Positive Feedback
 2463,Anger,Complaint / Dissatisfaction
 2464,Sadness,Complaint / Dissatisfaction
 2465,Happiness,Gratitude / Positive Feedback
 2466,Happiness,Gratitude / Positive Feedback
-2467,Happiness,Neutral Comment
+2467,Happiness,Gratitude / Positive Feedback
 2468,Happiness,Gratitude / Positive Feedback
 2469,Anger,Complaint / Dissatisfaction
 2470,Happiness,Gratitude / Positive Feedback
-2471,Anger,Complaint / Dissatisfaction
+2471,Sadness,Complaint / Dissatisfaction
 2472,Happiness,Gratitude / Positive Feedback
 2473,Happiness,Gratitude / Positive Feedback
 2474,Neutral,Question / Request for Help
 2475,Happiness,Gratitude / Positive Feedback
-2476,Anger,Complaint / Dissatisfaction
+2476,Neutral,Suggestion / Idea
 2477,Happiness,Gratitude / Positive Feedback
 2478,Anger,Complaint / Dissatisfaction
 2479,Anger,Complaint / Dissatisfaction
 2480,Happiness,Gratitude / Positive Feedback
-2481,Happiness,Neutral Comment
+2481,Happiness,Gratitude / Positive Feedback
 2482,Happiness,Gratitude / Positive Feedback
 2483,Sadness,Complaint / Dissatisfaction
 2484,Happiness,Gratitude / Positive Feedback
 2485,Anger,Complaint / Dissatisfaction
 2486,Happiness,Gratitude / Positive Feedback
-2487,Anger,Complaint / Dissatisfaction
+2487,Happiness,Gratitude / Positive Feedback
 2488,Happiness,Gratitude / Positive Feedback
 2489,Happiness,Gratitude / Positive Feedback
 2490,Anger,Complaint / Dissatisfaction
@@ -2497,32 +2497,32 @@ index,emotion,category
 2495,Happiness,Gratitude / Positive Feedback
 2496,Neutral,Question / Request for Help
 2497,Happiness,Gratitude / Positive Feedback
-2498,Sadness,Complaint / Dissatisfaction
+2498,Happiness,Gratitude / Positive Feedback
 2499,Happiness,Gratitude / Positive Feedback
 2500,Anger,Complaint / Dissatisfaction
-2501,Disgust,Complaint / Dissatisfaction
+2501,Anger,Complaint / Dissatisfaction
 2502,Happiness,Gratitude / Positive Feedback
 2503,Happiness,Gratitude / Positive Feedback
-2504,Sadness,Complaint / Dissatisfaction
+2504,Happiness,Gratitude / Positive Feedback
 2505,Anger,Complaint / Dissatisfaction
 2506,Happiness,Gratitude / Positive Feedback
 2507,Anger,Complaint / Dissatisfaction
-2508,Neutral,Neutral Comment
+2508,Neutral,Suggestion / Idea
 2509,Happiness,Gratitude / Positive Feedback
 2510,Happiness,Gratitude / Positive Feedback
 2511,Anger,Complaint / Dissatisfaction
-2512,Anger,Complaint / Dissatisfaction
+2512,Happiness,Gratitude / Positive Feedback
 2513,Anger,Complaint / Dissatisfaction
 2514,Happiness,Gratitude / Positive Feedback
 2515,Anger,Complaint / Dissatisfaction
 2516,Happiness,Gratitude / Positive Feedback
-2517,Anger,Complaint / Dissatisfaction
+2517,Happiness,Gratitude / Positive Feedback
 2518,Happiness,Gratitude / Positive Feedback
 2519,Happiness,Gratitude / Positive Feedback
 2520,Happiness,Gratitude / Positive Feedback
-2521,Happiness,Gratitude / Positive Feedback
+2521,Happiness,Suggestion / Idea
 2522,Anger,Complaint / Dissatisfaction
-2523,Anger,Complaint / Dissatisfaction
+2523,Neutral,Suggestion / Idea
 2524,Happiness,Gratitude / Positive Feedback
 2525,Neutral,Suggestion / Idea
 2526,Happiness,Gratitude / Positive Feedback
@@ -2531,7 +2531,7 @@ index,emotion,category
 2529,Anger,Complaint / Dissatisfaction
 2530,Happiness,Gratitude / Positive Feedback
 2531,Happiness,Gratitude / Positive Feedback
-2532,Neutral,Suggestion / Idea
+2532,Happiness,Suggestion / Idea
 2533,Happiness,Gratitude / Positive Feedback
 2534,Anger,Complaint / Dissatisfaction
 2535,Happiness,Gratitude / Positive Feedback
@@ -2550,13 +2550,13 @@ index,emotion,category
 2548,Happiness,Gratitude / Positive Feedback
 2549,Anger,Complaint / Dissatisfaction
 2550,Neutral,Neutral Comment
-2551,Neutral,Neutral Comment
+2551,Sadness,Suggestion / Idea
 2552,Happiness,Gratitude / Positive Feedback
-2553,Anger,Complaint / Dissatisfaction
-2554,Sadness,Neutral Comment
-2555,Neutral,Question / Request for Help
+2553,Happiness,Gratitude / Positive Feedback
+2554,Happiness,Gratitude / Positive Feedback
+2555,Neutral,Suggestion / Idea
 2556,Happiness,Gratitude / Positive Feedback
-2557,Surprise,Gratitude / Positive Feedback
+2557,Happiness,Gratitude / Positive Feedback
 2558,Happiness,Gratitude / Positive Feedback
 2559,Neutral,Question / Request for Help
 2560,Neutral,Question / Request for Help
@@ -2564,8 +2564,8 @@ index,emotion,category
 2562,Anger,Complaint / Dissatisfaction
 2563,Anger,Complaint / Dissatisfaction
 2564,Happiness,Gratitude / Positive Feedback
-2565,Anger,Complaint / Dissatisfaction
-2566,Surprise,Complaint / Dissatisfaction
+2565,Happiness,Suggestion / Idea
+2566,Happiness,Gratitude / Positive Feedback
 2567,Neutral,Neutral Comment
 2568,Happiness,Gratitude / Positive Feedback
 2569,Happiness,Gratitude / Positive Feedback
@@ -2573,42 +2573,42 @@ index,emotion,category
 2571,Happiness,Gratitude / Positive Feedback
 2572,Happiness,Gratitude / Positive Feedback
 2573,Happiness,Gratitude / Positive Feedback
-2574,Surprise,Gratitude / Positive Feedback
+2574,Sadness,Gratitude / Positive Feedback
 2575,Happiness,Gratitude / Positive Feedback
 2576,Anger,Complaint / Dissatisfaction
 2577,Happiness,Gratitude / Positive Feedback
 2578,Anger,Complaint / Dissatisfaction
 2579,Happiness,Gratitude / Positive Feedback
 2580,Anger,Complaint / Dissatisfaction
-2581,Sadness,Complaint / Dissatisfaction
-2582,Happiness,Neutral Comment
+2581,Disgust,Complaint / Dissatisfaction
+2582,Happiness,Gratitude / Positive Feedback
 2583,Happiness,Gratitude / Positive Feedback
-2584,Neutral,Suggestion / Idea
+2584,Happiness,Suggestion / Idea
 2585,Happiness,Gratitude / Positive Feedback
 2586,Happiness,Gratitude / Positive Feedback
-2587,Sadness,Neutral Comment
+2587,Disgust,Complaint / Dissatisfaction
 2588,Happiness,Gratitude / Positive Feedback
 2589,Neutral,Suggestion / Idea
 2590,Happiness,Gratitude / Positive Feedback
-2591,Surprise,Gratitude / Positive Feedback
+2591,Happiness,Gratitude / Positive Feedback
 2592,Happiness,Gratitude / Positive Feedback
 2593,Happiness,Gratitude / Positive Feedback
 2594,Happiness,Gratitude / Positive Feedback
 2595,Happiness,Gratitude / Positive Feedback
-2596,Anger,Complaint / Dissatisfaction
+2596,Neutral,Complaint / Dissatisfaction
 2597,Happiness,Gratitude / Positive Feedback
 2598,Happiness,Gratitude / Positive Feedback
 2599,Happiness,Gratitude / Positive Feedback
 2600,Neutral,Question / Request for Help
 2601,Happiness,Gratitude / Positive Feedback
-2602,Anger,Complaint / Dissatisfaction
+2602,Happiness,Gratitude / Positive Feedback
 2603,Happiness,Gratitude / Positive Feedback
-2604,Happiness,Neutral Comment
+2604,Sadness,Gratitude / Positive Feedback
 2605,Happiness,Gratitude / Positive Feedback
 2606,Anger,Complaint / Dissatisfaction
-2607,Surprise,Gratitude / Positive Feedback
+2607,Happiness,Gratitude / Positive Feedback
 2608,Happiness,Gratitude / Positive Feedback
-2609,Anger,Complaint / Dissatisfaction
+2609,Happiness,Gratitude / Positive Feedback
 2610,Happiness,Gratitude / Positive Feedback
 2611,Happiness,Gratitude / Positive Feedback
 2612,Happiness,Gratitude / Positive Feedback
@@ -2619,21 +2619,21 @@ index,emotion,category
 2617,Happiness,Gratitude / Positive Feedback
 2618,Anger,Complaint / Dissatisfaction
 2619,Anger,Complaint / Dissatisfaction
-2620,Happiness,Gratitude / Positive Feedback
+2620,Neutral,Neutral Comment
 2621,Happiness,Gratitude / Positive Feedback
 2622,Happiness,Gratitude / Positive Feedback
 2623,Anger,Complaint / Dissatisfaction
 2624,Neutral,Question / Request for Help
-2625,Happiness,Suggestion / Idea
+2625,Happiness,Gratitude / Positive Feedback
 2626,Anger,Complaint / Dissatisfaction
-2627,Anger,Neutral Comment
+2627,Neutral,Question / Request for Help
 2628,Happiness,Gratitude / Positive Feedback
 2629,Neutral,Question / Request for Help
-2630,Surprise,Gratitude / Positive Feedback
+2630,Happiness,Gratitude / Positive Feedback
 2631,Happiness,Gratitude / Positive Feedback
 2632,Happiness,Gratitude / Positive Feedback
 2633,Happiness,Gratitude / Positive Feedback
-2634,Anger,Complaint / Dissatisfaction
+2634,Anger,Gratitude / Positive Feedback
 2635,Anger,Complaint / Dissatisfaction
 2636,Neutral,Question / Request for Help
 2637,Happiness,Gratitude / Positive Feedback
@@ -2641,14 +2641,14 @@ index,emotion,category
 2639,Anger,Complaint / Dissatisfaction
 2640,Anger,Complaint / Dissatisfaction
 2641,Happiness,Gratitude / Positive Feedback
-2642,Happiness,Suggestion / Idea
+2642,Happiness,Gratitude / Positive Feedback
 2643,Happiness,Gratitude / Positive Feedback
 2644,Happiness,Gratitude / Positive Feedback
 2645,Happiness,Gratitude / Positive Feedback
 2646,Anger,Complaint / Dissatisfaction
 2647,Happiness,Gratitude / Positive Feedback
 2648,Happiness,Gratitude / Positive Feedback
-2649,Neutral,Neutral Comment
+2649,Happiness,Suggestion / Idea
 2650,Anger,Complaint / Dissatisfaction
 2651,Happiness,Gratitude / Positive Feedback
 2652,Happiness,Gratitude / Positive Feedback
@@ -2658,22 +2658,22 @@ index,emotion,category
 2656,Anger,Complaint / Dissatisfaction
 2657,Happiness,Gratitude / Positive Feedback
 2658,Happiness,Gratitude / Positive Feedback
-2659,Neutral,Neutral Comment
+2659,Sadness,Complaint / Dissatisfaction
 2660,Happiness,Gratitude / Positive Feedback
 2661,Sadness,Complaint / Dissatisfaction
 2662,Neutral,Question / Request for Help
 2663,Anger,Complaint / Dissatisfaction
 2664,Happiness,Gratitude / Positive Feedback
-2665,Sadness,Neutral Comment
+2665,Neutral,Neutral Comment
 2666,Happiness,Gratitude / Positive Feedback
 2667,Happiness,Gratitude / Positive Feedback
-2668,Sadness,Neutral Comment
+2668,Happiness,Gratitude / Positive Feedback
 2669,Anger,Complaint / Dissatisfaction
 2670,Happiness,Gratitude / Positive Feedback
 2671,Happiness,Gratitude / Positive Feedback
 2672,Anger,Complaint / Dissatisfaction
-2673,Happiness,Complaint / Dissatisfaction
-2674,Anger,Complaint / Dissatisfaction
+2673,Happiness,Gratitude / Positive Feedback
+2674,Neutral,Question / Request for Help
 2675,Happiness,Gratitude / Positive Feedback
 2676,Happiness,Gratitude / Positive Feedback
 2677,Happiness,Gratitude / Positive Feedback
@@ -2683,10 +2683,10 @@ index,emotion,category
 2681,Happiness,Gratitude / Positive Feedback
 2682,Anger,Complaint / Dissatisfaction
 2683,Happiness,Gratitude / Positive Feedback
-2684,Anger,Complaint / Dissatisfaction
+2684,Happiness,Suggestion / Idea
 2685,Anger,Complaint / Dissatisfaction
 2686,Happiness,Gratitude / Positive Feedback
-2687,Anger,Complaint / Dissatisfaction
+2687,Happiness,Gratitude / Positive Feedback
 2688,Happiness,Gratitude / Positive Feedback
 2689,Happiness,Gratitude / Positive Feedback
 2690,Happiness,Gratitude / Positive Feedback
@@ -2704,10 +2704,10 @@ index,emotion,category
 2702,Happiness,Gratitude / Positive Feedback
 2703,Neutral,Question / Request for Help
 2704,Happiness,Gratitude / Positive Feedback
-2705,Anger,Complaint / Dissatisfaction
-2706,Sadness,Complaint / Dissatisfaction
+2705,Happiness,Gratitude / Positive Feedback
+2706,Happiness,Gratitude / Positive Feedback
 2707,Happiness,Gratitude / Positive Feedback
-2708,Sadness,Complaint / Dissatisfaction
+2708,Happiness,Gratitude / Positive Feedback
 2709,Happiness,Gratitude / Positive Feedback
 2710,Happiness,Gratitude / Positive Feedback
 2711,Anger,Complaint / Dissatisfaction
@@ -2722,18 +2722,18 @@ index,emotion,category
 2720,Neutral,Question / Request for Help
 2721,Anger,Complaint / Dissatisfaction
 2722,Neutral,Neutral Comment
-2723,Happiness,Gratitude / Positive Feedback
+2723,Happiness,Suggestion / Idea
 2724,Anger,Complaint / Dissatisfaction
-2725,Neutral,Gratitude / Positive Feedback
-2726,Neutral,Neutral Comment
+2725,Happiness,Suggestion / Idea
+2726,Happiness,Gratitude / Positive Feedback
 2727,Happiness,Gratitude / Positive Feedback
-2728,Neutral,Neutral Comment
+2728,Neutral,Suggestion / Idea
 2729,Anger,Complaint / Dissatisfaction
-2730,Sadness,Gratitude / Positive Feedback
+2730,Sadness,Complaint / Dissatisfaction
 2731,Happiness,Gratitude / Positive Feedback
 2732,Anger,Complaint / Dissatisfaction
 2733,Happiness,Gratitude / Positive Feedback
-2734,Anger,Complaint / Dissatisfaction
+2734,Happiness,Gratitude / Positive Feedback
 2735,Happiness,Gratitude / Positive Feedback
 2736,Anger,Complaint / Dissatisfaction
 2737,Happiness,Gratitude / Positive Feedback
@@ -2744,7 +2744,7 @@ index,emotion,category
 2742,Neutral,Question / Request for Help
 2743,Happiness,Gratitude / Positive Feedback
 2744,Happiness,Gratitude / Positive Feedback
-2745,Anger,Complaint / Dissatisfaction
+2745,Neutral,Question / Request for Help
 2746,Anger,Complaint / Dissatisfaction
 2747,Neutral,Suggestion / Idea
 2748,Happiness,Gratitude / Positive Feedback
@@ -2758,37 +2758,37 @@ index,emotion,category
 2756,Happiness,Gratitude / Positive Feedback
 2757,Happiness,Gratitude / Positive Feedback
 2758,Happiness,Gratitude / Positive Feedback
-2759,Happiness,Gratitude / Positive Feedback
-2760,Anger,Complaint / Dissatisfaction
-2761,Surprise,Gratitude / Positive Feedback
+2759,Happiness,Suggestion / Idea
+2760,Sadness,Complaint / Dissatisfaction
+2761,Happiness,Gratitude / Positive Feedback
 2762,Anger,Complaint / Dissatisfaction
 2763,Happiness,Gratitude / Positive Feedback
 2764,Anger,Complaint / Dissatisfaction
 2765,Anger,Complaint / Dissatisfaction
-2766,Surprise,Gratitude / Positive Feedback
-2767,Surprise,Gratitude / Positive Feedback
+2766,Happiness,Gratitude / Positive Feedback
+2767,Happiness,Gratitude / Positive Feedback
 2768,Happiness,Gratitude / Positive Feedback
 2769,Happiness,Gratitude / Positive Feedback
 2770,Happiness,Gratitude / Positive Feedback
 2771,Happiness,Gratitude / Positive Feedback
 2772,Happiness,Gratitude / Positive Feedback
-2773,Surprise,Gratitude / Positive Feedback
+2773,Happiness,Gratitude / Positive Feedback
 2774,Happiness,Gratitude / Positive Feedback
-2775,Happiness,Suggestion / Idea
+2775,Happiness,Gratitude / Positive Feedback
 2776,Happiness,Gratitude / Positive Feedback
 2777,Anger,Complaint / Dissatisfaction
 2778,Happiness,Gratitude / Positive Feedback
 2779,Happiness,Gratitude / Positive Feedback
 2780,Anger,Complaint / Dissatisfaction
-2781,Neutral,Neutral Comment
+2781,Neutral,Question / Request for Help
 2782,Happiness,Gratitude / Positive Feedback
-2783,Anger,Complaint / Dissatisfaction
+2783,Anger,Suggestion / Idea
 2784,Happiness,Gratitude / Positive Feedback
 2785,Happiness,Gratitude / Positive Feedback
 2786,Happiness,Gratitude / Positive Feedback
 2787,Happiness,Gratitude / Positive Feedback
 2788,Happiness,Gratitude / Positive Feedback
-2789,Neutral,Neutral Comment
+2789,Sadness,Complaint / Dissatisfaction
 2790,Happiness,Gratitude / Positive Feedback
 2791,Happiness,Gratitude / Positive Feedback
 2792,Happiness,Gratitude / Positive Feedback
@@ -2796,12 +2796,12 @@ index,emotion,category
 2794,Happiness,Gratitude / Positive Feedback
 2795,Happiness,Gratitude / Positive Feedback
 2796,Happiness,Gratitude / Positive Feedback
-2797,Neutral,Neutral Comment
+2797,Neutral,Suggestion / Idea
 2798,Anger,Complaint / Dissatisfaction
-2799,Neutral,Complaint / Dissatisfaction
+2799,Sadness,Complaint / Dissatisfaction
 2800,Anger,Complaint / Dissatisfaction
 2801,Happiness,Gratitude / Positive Feedback
-2802,Neutral,Neutral Comment
+2802,Happiness,Gratitude / Positive Feedback
 2803,Anger,Complaint / Dissatisfaction
 2804,Happiness,Gratitude / Positive Feedback
 2805,Happiness,Gratitude / Positive Feedback
@@ -2809,12 +2809,12 @@ index,emotion,category
 2807,Sadness,Complaint / Dissatisfaction
 2808,Happiness,Gratitude / Positive Feedback
 2809,Happiness,Gratitude / Positive Feedback
-2810,Anger,Complaint / Dissatisfaction
+2810,Neutral,Gratitude / Positive Feedback
 2811,Happiness,Gratitude / Positive Feedback
 2812,Happiness,Suggestion / Idea
 2813,Happiness,Gratitude / Positive Feedback
 2814,Happiness,Gratitude / Positive Feedback
-2815,Anger,Complaint / Dissatisfaction
+2815,Happiness,Gratitude / Positive Feedback
 2816,Anger,Complaint / Dissatisfaction
 2817,Neutral,Neutral Comment
 2818,Anger,Complaint / Dissatisfaction
@@ -2823,40 +2823,40 @@ index,emotion,category
 2821,Neutral,Suggestion / Idea
 2822,Happiness,Gratitude / Positive Feedback
 2823,Happiness,Gratitude / Positive Feedback
-2824,Disgust,Complaint / Dissatisfaction
+2824,Happiness,Gratitude / Positive Feedback
 2825,Happiness,Gratitude / Positive Feedback
-2826,Happiness,Neutral Comment
+2826,Happiness,Gratitude / Positive Feedback
 2827,Happiness,Gratitude / Positive Feedback
 2828,Neutral,Question / Request for Help
-2829,Anger,Complaint / Dissatisfaction
+2829,Anger,Gratitude / Positive Feedback
 2830,Happiness,Gratitude / Positive Feedback
 2831,Anger,Complaint / Dissatisfaction
 2832,Anger,Complaint / Dissatisfaction
 2833,Anger,Complaint / Dissatisfaction
 2834,Happiness,Gratitude / Positive Feedback
 2835,Anger,Complaint / Dissatisfaction
-2836,Sadness,Question / Request for Help
-2837,Happiness,Complaint / Dissatisfaction
+2836,Neutral,Question / Request for Help
+2837,Happiness,Gratitude / Positive Feedback
 2838,Happiness,Gratitude / Positive Feedback
 2839,Happiness,Gratitude / Positive Feedback
 2840,Anger,Complaint / Dissatisfaction
 2841,Happiness,Gratitude / Positive Feedback
-2842,Disgust,Complaint / Dissatisfaction
+2842,Sadness,Complaint / Dissatisfaction
 2843,Anger,Complaint / Dissatisfaction
 2844,Anger,Complaint / Dissatisfaction
 2845,Anger,Complaint / Dissatisfaction
-2846,Neutral,Suggestion / Idea
-2847,Anger,Complaint / Dissatisfaction
+2846,Happiness,Suggestion / Idea
+2847,Neutral,Neutral Comment
 2848,Happiness,Gratitude / Positive Feedback
 2849,Happiness,Gratitude / Positive Feedback
 2850,Happiness,Gratitude / Positive Feedback
 2851,Happiness,Gratitude / Positive Feedback
 2852,Happiness,Gratitude / Positive Feedback
-2853,Surprise,Gratitude / Positive Feedback
+2853,Happiness,Gratitude / Positive Feedback
 2854,Happiness,Gratitude / Positive Feedback
 2855,Happiness,Gratitude / Positive Feedback
 2856,Happiness,Gratitude / Positive Feedback
-2857,Happiness,Gratitude / Positive Feedback
+2857,Happiness,Suggestion / Idea
 2858,Happiness,Gratitude / Positive Feedback
 2859,Happiness,Gratitude / Positive Feedback
 2860,Neutral,Question / Request for Help
@@ -2866,26 +2866,26 @@ index,emotion,category
 2864,Anger,Complaint / Dissatisfaction
 2865,Happiness,Gratitude / Positive Feedback
 2866,Happiness,Gratitude / Positive Feedback
-2867,Sadness,Complaint / Dissatisfaction
+2867,Disgust,Complaint / Dissatisfaction
 2868,Happiness,Gratitude / Positive Feedback
 2869,Happiness,Gratitude / Positive Feedback
 2870,Neutral,Neutral Comment
-2871,Neutral,Question / Request for Help
+2871,Neutral,Suggestion / Idea
 2872,Sadness,Neutral Comment
 2873,Happiness,Gratitude / Positive Feedback
-2874,Sadness,Complaint / Dissatisfaction
+2874,Anger,Complaint / Dissatisfaction
 2875,Anger,Question / Request for Help
 2876,Happiness,Gratitude / Positive Feedback
 2877,Happiness,Gratitude / Positive Feedback
 2878,Happiness,Gratitude / Positive Feedback
-2879,Neutral,Neutral Comment
+2879,Happiness,Gratitude / Positive Feedback
 2880,Happiness,Gratitude / Positive Feedback
 2881,Happiness,Gratitude / Positive Feedback
 2882,Happiness,Gratitude / Positive Feedback
-2883,Anger,Complaint / Dissatisfaction
+2883,Happiness,Gratitude / Positive Feedback
 2884,Happiness,Gratitude / Positive Feedback
 2885,Anger,Complaint / Dissatisfaction
-2886,Anger,Complaint / Dissatisfaction
+2886,Sadness,Complaint / Dissatisfaction
 2887,Happiness,Gratitude / Positive Feedback
 2888,Anger,Complaint / Dissatisfaction
 2889,Anger,Complaint / Dissatisfaction
@@ -2899,31 +2899,31 @@ index,emotion,category
 2897,Happiness,Gratitude / Positive Feedback
 2898,Anger,Complaint / Dissatisfaction
 2899,Anger,Complaint / Dissatisfaction
-2900,Neutral,Neutral Comment
+2900,Neutral,Suggestion / Idea
 2901,Happiness,Gratitude / Positive Feedback
 2902,Happiness,Gratitude / Positive Feedback
 2903,Happiness,Gratitude / Positive Feedback
 2904,Neutral,Question / Request for Help
 2905,Happiness,Gratitude / Positive Feedback
-2906,Sadness,Complaint / Dissatisfaction
+2906,Happiness,Gratitude / Positive Feedback
 2907,Happiness,Gratitude / Positive Feedback
 2908,Happiness,Gratitude / Positive Feedback
 2909,Happiness,Gratitude / Positive Feedback
 2910,Happiness,Gratitude / Positive Feedback
-2911,Anger,Complaint / Dissatisfaction
+2911,Neutral,Neutral Comment
 2912,Anger,Complaint / Dissatisfaction
 2913,Happiness,Gratitude / Positive Feedback
 2914,Happiness,Gratitude / Positive Feedback
 2915,Neutral,Neutral Comment
-2916,Anger,Complaint / Dissatisfaction
+2916,Happiness,Gratitude / Positive Feedback
 2917,Happiness,Gratitude / Positive Feedback
-2918,Anger,Complaint / Dissatisfaction
-2919,Neutral,Neutral Comment
+2918,Happiness,Gratitude / Positive Feedback
+2919,Happiness,Gratitude / Positive Feedback
 2920,Neutral,Question / Request for Help
 2921,Happiness,Gratitude / Positive Feedback
 2922,Anger,Complaint / Dissatisfaction
 2923,Happiness,Gratitude / Positive Feedback
-2924,Anger,Complaint / Dissatisfaction
+2924,Neutral,Suggestion / Idea
 2925,Happiness,Gratitude / Positive Feedback
 2926,Happiness,Gratitude / Positive Feedback
 2927,Happiness,Gratitude / Positive Feedback
@@ -2940,17 +2940,17 @@ index,emotion,category
 2938,Happiness,Gratitude / Positive Feedback
 2939,Neutral,Question / Request for Help
 2940,Happiness,Gratitude / Positive Feedback
-2941,Sadness,Question / Request for Help
+2941,Sadness,Complaint / Dissatisfaction
 2942,Happiness,Gratitude / Positive Feedback
 2943,Happiness,Gratitude / Positive Feedback
-2944,Sadness,Complaint / Dissatisfaction
+2944,Happiness,Gratitude / Positive Feedback
 2945,Happiness,Gratitude / Positive Feedback
-2946,Neutral,Gratitude / Positive Feedback
+2946,Happiness,Gratitude / Positive Feedback
 2947,Happiness,Gratitude / Positive Feedback
 2948,Neutral,Neutral Comment
 2949,Happiness,Gratitude / Positive Feedback
-2950,Anger,Complaint / Dissatisfaction
-2951,Anger,Suggestion / Idea
+2950,Happiness,Gratitude / Positive Feedback
+2951,Happiness,Suggestion / Idea
 2952,Happiness,Gratitude / Positive Feedback
 2953,Happiness,Gratitude / Positive Feedback
 2954,Happiness,Gratitude / Positive Feedback
@@ -2960,7 +2960,7 @@ index,emotion,category
 2958,Happiness,Gratitude / Positive Feedback
 2959,Anger,Complaint / Dissatisfaction
 2960,Happiness,Gratitude / Positive Feedback
-2961,Anger,Complaint / Dissatisfaction
+2961,Happiness,Gratitude / Positive Feedback
 2962,Anger,Complaint / Dissatisfaction
 2963,Neutral,Question / Request for Help
 2964,Neutral,Question / Request for Help
@@ -2980,44 +2980,44 @@ index,emotion,category
 2978,Happiness,Gratitude / Positive Feedback
 2979,Happiness,Gratitude / Positive Feedback
 2980,Happiness,Gratitude / Positive Feedback
-2981,Anger,Complaint / Dissatisfaction
+2981,Anger,Neutral Comment
 2982,Happiness,Gratitude / Positive Feedback
 2983,Happiness,Gratitude / Positive Feedback
 2984,Happiness,Gratitude / Positive Feedback
 2985,Happiness,Gratitude / Positive Feedback
-2986,Anger,Neutral Comment
+2986,Happiness,Gratitude / Positive Feedback
 2987,Happiness,Gratitude / Positive Feedback
 2988,Happiness,Gratitude / Positive Feedback
-2989,Neutral,Neutral Comment
+2989,Happiness,Suggestion / Idea
 2990,Happiness,Gratitude / Positive Feedback
 2991,Anger,Complaint / Dissatisfaction
-2992,Anger,Complaint / Dissatisfaction
+2992,Sadness,Complaint / Dissatisfaction
 2993,Neutral,Neutral Comment
 2994,Neutral,Question / Request for Help
 2995,Happiness,Gratitude / Positive Feedback
-2996,Anger,Question / Request for Help
+2996,Anger,Complaint / Dissatisfaction
 2997,Happiness,Gratitude / Positive Feedback
 2998,Anger,Complaint / Dissatisfaction
 2999,Happiness,Gratitude / Positive Feedback
-3000,Sadness,Question / Request for Help
+3000,Neutral,Question / Request for Help
 3001,Happiness,Gratitude / Positive Feedback
-3002,Disgust,Complaint / Dissatisfaction
-3003,Neutral,Neutral Comment
+3002,Anger,Complaint / Dissatisfaction
+3003,Happiness,Gratitude / Positive Feedback
 3004,Happiness,Gratitude / Positive Feedback
 3005,Happiness,Gratitude / Positive Feedback
 3006,Happiness,Gratitude / Positive Feedback
 3007,Sadness,Complaint / Dissatisfaction
 3008,Neutral,Question / Request for Help
 3009,Neutral,Question / Request for Help
-3010,Anger,Complaint / Dissatisfaction
+3010,Neutral,Question / Request for Help
 3011,Anger,Complaint / Dissatisfaction
 3012,Happiness,Gratitude / Positive Feedback
 3013,Happiness,Gratitude / Positive Feedback
 3014,Happiness,Gratitude / Positive Feedback
 3015,Happiness,Gratitude / Positive Feedback
-3016,Happiness,Suggestion / Idea
+3016,Happiness,Gratitude / Positive Feedback
 3017,Happiness,Gratitude / Positive Feedback
-3018,Neutral,Complaint / Dissatisfaction
+3018,Sadness,Gratitude / Positive Feedback
 3019,Happiness,Gratitude / Positive Feedback
 3020,Happiness,Gratitude / Positive Feedback
 3021,Happiness,Gratitude / Positive Feedback
@@ -3030,107 +3030,107 @@ index,emotion,category
 3028,Anger,Complaint / Dissatisfaction
 3029,Happiness,Gratitude / Positive Feedback
 3030,Happiness,Gratitude / Positive Feedback
-3031,Anger,Complaint / Dissatisfaction
+3031,Happiness,Gratitude / Positive Feedback
 3032,Happiness,Gratitude / Positive Feedback
 3033,Anger,Complaint / Dissatisfaction
 3034,Anger,Complaint / Dissatisfaction
-3035,Sadness,Complaint / Dissatisfaction
+3035,Anger,Suggestion / Idea
 3036,Neutral,Question / Request for Help
-3037,Anger,Complaint / Dissatisfaction
+3037,Happiness,Gratitude / Positive Feedback
 3038,Anger,Complaint / Dissatisfaction
 3039,Happiness,Gratitude / Positive Feedback
 3040,Happiness,Gratitude / Positive Feedback
 3041,Happiness,Gratitude / Positive Feedback
-3042,Anger,Complaint / Dissatisfaction
-3043,Neutral,Neutral Comment
+3042,Happiness,Gratitude / Positive Feedback
+3043,Neutral,Suggestion / Idea
 3044,Anger,Complaint / Dissatisfaction
 3045,Anger,Complaint / Dissatisfaction
 3046,Anger,Complaint / Dissatisfaction
-3047,Anger,Complaint / Dissatisfaction
+3047,Happiness,Gratitude / Positive Feedback
 3048,Anger,Complaint / Dissatisfaction
 3049,Happiness,Gratitude / Positive Feedback
 3050,Happiness,Gratitude / Positive Feedback
 3051,Neutral,Suggestion / Idea
 3052,Happiness,Gratitude / Positive Feedback
-3053,Neutral,Neutral Comment
+3053,Neutral,Gratitude / Positive Feedback
 3054,Happiness,Gratitude / Positive Feedback
 3055,Neutral,Neutral Comment
 3056,Neutral,Question / Request for Help
 3057,Anger,Complaint / Dissatisfaction
 3058,Happiness,Gratitude / Positive Feedback
-3059,Sadness,Neutral Comment
+3059,Sadness,Suggestion / Idea
 3060,Happiness,Gratitude / Positive Feedback
-3061,Neutral,Neutral Comment
+3061,Happiness,Gratitude / Positive Feedback
 3062,Happiness,Gratitude / Positive Feedback
-3063,Anger,Complaint / Dissatisfaction
-3064,Sadness,Gratitude / Positive Feedback
+3063,Happiness,Gratitude / Positive Feedback
+3064,Happiness,Gratitude / Positive Feedback
 3065,Happiness,Gratitude / Positive Feedback
 3066,Happiness,Gratitude / Positive Feedback
 3067,Happiness,Gratitude / Positive Feedback
 3068,Happiness,Gratitude / Positive Feedback
-3069,Anger,Complaint / Dissatisfaction
-3070,Sadness,Neutral Comment
+3069,Surprise,Complaint / Dissatisfaction
+3070,Happiness,Gratitude / Positive Feedback
 3071,Happiness,Gratitude / Positive Feedback
-3072,Anger,Complaint / Dissatisfaction
+3072,Sadness,Complaint / Dissatisfaction
 3073,Happiness,Gratitude / Positive Feedback
 3074,Happiness,Gratitude / Positive Feedback
-3075,Sadness,Suggestion / Idea
+3075,Happiness,Gratitude / Positive Feedback
 3076,Anger,Complaint / Dissatisfaction
 3077,Happiness,Gratitude / Positive Feedback
 3078,Happiness,Gratitude / Positive Feedback
 3079,Happiness,Gratitude / Positive Feedback
-3080,Neutral,Suggestion / Idea
+3080,Happiness,Suggestion / Idea
 3081,Happiness,Gratitude / Positive Feedback
-3082,Anger,Complaint / Dissatisfaction
+3082,Happiness,Suggestion / Idea
 3083,Happiness,Gratitude / Positive Feedback
 3084,Happiness,Gratitude / Positive Feedback
 3085,Happiness,Gratitude / Positive Feedback
-3086,Anger,Complaint / Dissatisfaction
-3087,Surprise,Gratitude / Positive Feedback
+3086,Anger,Gratitude / Positive Feedback
+3087,Happiness,Gratitude / Positive Feedback
 3088,Happiness,Gratitude / Positive Feedback
 3089,Anger,Complaint / Dissatisfaction
-3090,Neutral,Suggestion / Idea
+3090,Happiness,Suggestion / Idea
 3091,Anger,Complaint / Dissatisfaction
-3092,Disgust,Complaint / Dissatisfaction
+3092,Sadness,Gratitude / Positive Feedback
 3093,Happiness,Gratitude / Positive Feedback
-3094,Neutral,Suggestion / Idea
-3095,Sadness,Complaint / Dissatisfaction
+3094,Anger,Complaint / Dissatisfaction
+3095,Neutral,Suggestion / Idea
 3096,Happiness,Gratitude / Positive Feedback
 3097,Anger,Complaint / Dissatisfaction
 3098,Happiness,Gratitude / Positive Feedback
-3099,Anger,Complaint / Dissatisfaction
-3100,Happiness,Suggestion / Idea
+3099,Neutral,Question / Request for Help
+3100,Happiness,Gratitude / Positive Feedback
 3101,Happiness,Gratitude / Positive Feedback
 3102,Happiness,Gratitude / Positive Feedback
-3103,Anger,Complaint / Dissatisfaction
+3103,Happiness,Gratitude / Positive Feedback
 3104,Happiness,Gratitude / Positive Feedback
 3105,Happiness,Gratitude / Positive Feedback
-3106,Neutral,Neutral Comment
+3106,Neutral,Gratitude / Positive Feedback
 3107,Anger,Complaint / Dissatisfaction
 3108,Anger,Complaint / Dissatisfaction
 3109,Happiness,Gratitude / Positive Feedback
 3110,Happiness,Gratitude / Positive Feedback
-3111,Neutral,Neutral Comment
+3111,Happiness,Gratitude / Positive Feedback
 3112,Sadness,Complaint / Dissatisfaction
 3113,Anger,Complaint / Dissatisfaction
 3114,Happiness,Gratitude / Positive Feedback
 3115,Happiness,Gratitude / Positive Feedback
 3116,Happiness,Gratitude / Positive Feedback
-3117,Sadness,Neutral Comment
+3117,Happiness,Gratitude / Positive Feedback
 3118,Happiness,Gratitude / Positive Feedback
 3119,Happiness,Gratitude / Positive Feedback
 3120,Happiness,Gratitude / Positive Feedback
 3121,Happiness,Gratitude / Positive Feedback
 3122,Happiness,Gratitude / Positive Feedback
-3123,Sadness,Neutral Comment
+3123,Happiness,Suggestion / Idea
 3124,Happiness,Gratitude / Positive Feedback
 3125,Happiness,Gratitude / Positive Feedback
 3126,Happiness,Gratitude / Positive Feedback
-3127,Anger,Complaint / Dissatisfaction
-3128,Anger,Complaint / Dissatisfaction
+3127,Neutral,Neutral Comment
+3128,Neutral,Question / Request for Help
 3129,Happiness,Gratitude / Positive Feedback
 3130,Happiness,Gratitude / Positive Feedback
-3131,Neutral,Neutral Comment
+3131,Neutral,Suggestion / Idea
 3132,Happiness,Gratitude / Positive Feedback
 3133,Anger,Complaint / Dissatisfaction
 3134,Happiness,Gratitude / Positive Feedback
@@ -3142,27 +3142,27 @@ index,emotion,category
 3140,Neutral,Suggestion / Idea
 3141,Happiness,Gratitude / Positive Feedback
 3142,Happiness,Gratitude / Positive Feedback
-3143,Happiness,Gratitude / Positive Feedback
+3143,Sadness,Complaint / Dissatisfaction
 3144,Happiness,Gratitude / Positive Feedback
 3145,Anger,Complaint / Dissatisfaction
 3146,Happiness,Gratitude / Positive Feedback
 3147,Happiness,Gratitude / Positive Feedback
 3148,Happiness,Gratitude / Positive Feedback
 3149,Happiness,Gratitude / Positive Feedback
-3150,Neutral,Neutral Comment
-3151,Anger,Complaint / Dissatisfaction
-3152,Disgust,Complaint / Dissatisfaction
+3150,Happiness,Suggestion / Idea
+3151,Happiness,Gratitude / Positive Feedback
+3152,Anger,Complaint / Dissatisfaction
 3153,Anger,Complaint / Dissatisfaction
 3154,Happiness,Gratitude / Positive Feedback
 3155,Happiness,Gratitude / Positive Feedback
-3156,Sadness,Neutral Comment
+3156,Sadness,Gratitude / Positive Feedback
 3157,Happiness,Gratitude / Positive Feedback
 3158,Anger,Complaint / Dissatisfaction
-3159,Surprise,Gratitude / Positive Feedback
+3159,Happiness,Gratitude / Positive Feedback
 3160,Anger,Complaint / Dissatisfaction
 3161,Happiness,Suggestion / Idea
-3162,Neutral,Neutral Comment
-3163,Happiness,Complaint / Dissatisfaction
+3162,Neutral,Suggestion / Idea
+3163,Happiness,Gratitude / Positive Feedback
 3164,Happiness,Gratitude / Positive Feedback
 3165,Happiness,Gratitude / Positive Feedback
 3166,Happiness,Gratitude / Positive Feedback
@@ -3189,23 +3189,23 @@ index,emotion,category
 3187,Sadness,Complaint / Dissatisfaction
 3188,Happiness,Gratitude / Positive Feedback
 3189,Happiness,Gratitude / Positive Feedback
-3190,Sadness,Neutral Comment
+3190,Sadness,Complaint / Dissatisfaction
 3191,Happiness,Gratitude / Positive Feedback
 3192,Happiness,Gratitude / Positive Feedback
 3193,Happiness,Gratitude / Positive Feedback
 3194,Happiness,Gratitude / Positive Feedback
 3195,Sadness,Complaint / Dissatisfaction
-3196,Neutral,Neutral Comment
-3197,Anger,Complaint / Dissatisfaction
+3196,Happiness,Gratitude / Positive Feedback
+3197,Surprise,Complaint / Dissatisfaction
 3198,Anger,Complaint / Dissatisfaction
-3199,Anger,Complaint / Dissatisfaction
+3199,Neutral,Neutral Comment
 3200,Happiness,Gratitude / Positive Feedback
 3201,Happiness,Gratitude / Positive Feedback
 3202,Happiness,Gratitude / Positive Feedback
-3203,Disgust,Complaint / Dissatisfaction
+3203,Happiness,Gratitude / Positive Feedback
 3204,Anger,Complaint / Dissatisfaction
 3205,Happiness,Gratitude / Positive Feedback
-3206,Surprise,Gratitude / Positive Feedback
+3206,Happiness,Gratitude / Positive Feedback
 3207,Happiness,Gratitude / Positive Feedback
 3208,Happiness,Gratitude / Positive Feedback
 3209,Anger,Complaint / Dissatisfaction
@@ -3213,12 +3213,12 @@ index,emotion,category
 3211,Anger,Complaint / Dissatisfaction
 3212,Happiness,Gratitude / Positive Feedback
 3213,Happiness,Gratitude / Positive Feedback
-3214,Anger,Complaint / Dissatisfaction
+3214,Neutral,Neutral Comment
 3215,Happiness,Gratitude / Positive Feedback
 3216,Happiness,Gratitude / Positive Feedback
 3217,Neutral,Question / Request for Help
-3218,Happiness,Gratitude / Positive Feedback
-3219,Anger,Complaint / Dissatisfaction
+3218,Happiness,Suggestion / Idea
+3219,Happiness,Gratitude / Positive Feedback
 3220,Happiness,Gratitude / Positive Feedback
 3221,Neutral,Suggestion / Idea
 3222,Anger,Complaint / Dissatisfaction
@@ -3236,16 +3236,16 @@ index,emotion,category
 3234,Happiness,Gratitude / Positive Feedback
 3235,Happiness,Gratitude / Positive Feedback
 3236,Happiness,Gratitude / Positive Feedback
-3237,Neutral,Neutral Comment
+3237,Neutral,Suggestion / Idea
 3238,Happiness,Gratitude / Positive Feedback
 3239,Happiness,Gratitude / Positive Feedback
 3240,Anger,Complaint / Dissatisfaction
-3241,Sadness,Gratitude / Positive Feedback
+3241,Happiness,Gratitude / Positive Feedback
 3242,Happiness,Gratitude / Positive Feedback
 3243,Happiness,Gratitude / Positive Feedback
 3244,Happiness,Gratitude / Positive Feedback
-3245,Anger,Complaint / Dissatisfaction
-3246,Anger,Complaint / Dissatisfaction
+3245,Sadness,Complaint / Dissatisfaction
+3246,Happiness,Gratitude / Positive Feedback
 3247,Happiness,Gratitude / Positive Feedback
 3248,Happiness,Gratitude / Positive Feedback
 3249,Anger,Complaint / Dissatisfaction
@@ -3255,7 +3255,7 @@ index,emotion,category
 3253,Happiness,Gratitude / Positive Feedback
 3254,Happiness,Gratitude / Positive Feedback
 3255,Happiness,Gratitude / Positive Feedback
-3256,Anger,Complaint / Dissatisfaction
+3256,Disgust,Complaint / Dissatisfaction
 3257,Happiness,Gratitude / Positive Feedback
 3258,Happiness,Gratitude / Positive Feedback
 3259,Anger,Complaint / Dissatisfaction
@@ -3264,27 +3264,27 @@ index,emotion,category
 3262,Happiness,Gratitude / Positive Feedback
 3263,Happiness,Gratitude / Positive Feedback
 3264,Happiness,Gratitude / Positive Feedback
-3265,Sadness,Suggestion / Idea
+3265,Happiness,Suggestion / Idea
 3266,Happiness,Gratitude / Positive Feedback
 3267,Happiness,Gratitude / Positive Feedback
-3268,Surprise,Gratitude / Positive Feedback
+3268,Happiness,Gratitude / Positive Feedback
 3269,Happiness,Gratitude / Positive Feedback
 3270,Happiness,Gratitude / Positive Feedback
 3271,Happiness,Gratitude / Positive Feedback
-3272,Sadness,Complaint / Dissatisfaction
-3273,Sadness,Gratitude / Positive Feedback
+3272,Sadness,Gratitude / Positive Feedback
+3273,Anger,Suggestion / Idea
 3274,Happiness,Gratitude / Positive Feedback
 3275,Anger,Complaint / Dissatisfaction
 3276,Happiness,Gratitude / Positive Feedback
 3277,Happiness,Gratitude / Positive Feedback
 3278,Neutral,Suggestion / Idea
-3279,Sadness,Complaint / Dissatisfaction
+3279,Happiness,Gratitude / Positive Feedback
 3280,Happiness,Gratitude / Positive Feedback
 3281,Neutral,Question / Request for Help
 3282,Anger,Complaint / Dissatisfaction
 3283,Neutral,Suggestion / Idea
 3284,Anger,Complaint / Dissatisfaction
-3285,Neutral,Suggestion / Idea
+3285,Happiness,Gratitude / Positive Feedback
 3286,Neutral,Question / Request for Help
 3287,Happiness,Gratitude / Positive Feedback
 3288,Happiness,Gratitude / Positive Feedback
@@ -3297,26 +3297,26 @@ index,emotion,category
 3295,Neutral,Question / Request for Help
 3296,Happiness,Gratitude / Positive Feedback
 3297,Anger,Complaint / Dissatisfaction
-3298,Anger,Complaint / Dissatisfaction
+3298,Neutral,Complaint / Dissatisfaction
 3299,Happiness,Gratitude / Positive Feedback
 3300,Happiness,Gratitude / Positive Feedback
 3301,Happiness,Gratitude / Positive Feedback
 3302,Happiness,Gratitude / Positive Feedback
 3303,Sadness,Neutral Comment
 3304,Happiness,Gratitude / Positive Feedback
-3305,Happiness,Gratitude / Positive Feedback
+3305,Happiness,Suggestion / Idea
 3306,Neutral,Neutral Comment
 3307,Happiness,Gratitude / Positive Feedback
-3308,Anger,Complaint / Dissatisfaction
+3308,Disgust,Complaint / Dissatisfaction
 3309,Happiness,Gratitude / Positive Feedback
-3310,Anger,Complaint / Dissatisfaction
-3311,Anger,Complaint / Dissatisfaction
+3310,Happiness,Gratitude / Positive Feedback
+3311,Sadness,Complaint / Dissatisfaction
 3312,Happiness,Gratitude / Positive Feedback
-3313,Anger,Complaint / Dissatisfaction
-3314,Sadness,Complaint / Dissatisfaction
+3313,Happiness,Gratitude / Positive Feedback
+3314,Happiness,Gratitude / Positive Feedback
 3315,Happiness,Gratitude / Positive Feedback
 3316,Anger,Complaint / Dissatisfaction
-3317,Happiness,Gratitude / Positive Feedback
+3317,Sadness,Complaint / Dissatisfaction
 3318,Anger,Complaint / Dissatisfaction
 3319,Neutral,Question / Request for Help
 3320,Happiness,Gratitude / Positive Feedback
@@ -3328,29 +3328,29 @@ index,emotion,category
 3326,Anger,Complaint / Dissatisfaction
 3327,Happiness,Gratitude / Positive Feedback
 3328,Happiness,Gratitude / Positive Feedback
-3329,Happiness,Gratitude / Positive Feedback
-3330,Happiness,Gratitude / Positive Feedback
+3329,Neutral,Neutral Comment
+3330,Happiness,Suggestion / Idea
 3331,Happiness,Gratitude / Positive Feedback
 3332,Anger,Complaint / Dissatisfaction
 3333,Happiness,Gratitude / Positive Feedback
 3334,Happiness,Gratitude / Positive Feedback
-3335,Neutral,Suggestion / Idea
+3335,Happiness,Suggestion / Idea
 3336,Happiness,Gratitude / Positive Feedback
 3337,Happiness,Gratitude / Positive Feedback
 3338,Anger,Complaint / Dissatisfaction
 3339,Happiness,Gratitude / Positive Feedback
-3340,Neutral,Gratitude / Positive Feedback
+3340,Happiness,Gratitude / Positive Feedback
 3341,Happiness,Gratitude / Positive Feedback
 3342,Happiness,Gratitude / Positive Feedback
-3343,Neutral,Neutral Comment
+3343,Happiness,Suggestion / Idea
 3344,Neutral,Suggestion / Idea
 3345,Happiness,Gratitude / Positive Feedback
-3346,Neutral,Neutral Comment
+3346,Happiness,Gratitude / Positive Feedback
 3347,Anger,Complaint / Dissatisfaction
-3348,Neutral,Neutral Comment
+3348,Happiness,Gratitude / Positive Feedback
 3349,Happiness,Gratitude / Positive Feedback
 3350,Happiness,Gratitude / Positive Feedback
-3351,Happiness,Gratitude / Positive Feedback
+3351,Happiness,Suggestion / Idea
 3352,Anger,Complaint / Dissatisfaction
 3353,Happiness,Gratitude / Positive Feedback
 3354,Happiness,Gratitude / Positive Feedback
@@ -3361,7 +3361,7 @@ index,emotion,category
 3359,Neutral,Question / Request for Help
 3360,Happiness,Gratitude / Positive Feedback
 3361,Sadness,Neutral Comment
-3362,Anger,Complaint / Dissatisfaction
+3362,Anger,Suggestion / Idea
 3363,Happiness,Gratitude / Positive Feedback
 3364,Happiness,Gratitude / Positive Feedback
 3365,Happiness,Gratitude / Positive Feedback
@@ -3370,7 +3370,7 @@ index,emotion,category
 3368,Happiness,Gratitude / Positive Feedback
 3369,Happiness,Gratitude / Positive Feedback
 3370,Happiness,Gratitude / Positive Feedback
-3371,Anger,Complaint / Dissatisfaction
+3371,Happiness,Gratitude / Positive Feedback
 3372,Anger,Complaint / Dissatisfaction
 3373,Happiness,Gratitude / Positive Feedback
 3374,Happiness,Gratitude / Positive Feedback
@@ -3387,25 +3387,25 @@ index,emotion,category
 3385,Happiness,Gratitude / Positive Feedback
 3386,Happiness,Gratitude / Positive Feedback
 3387,Neutral,Question / Request for Help
-3388,Sadness,Neutral Comment
+3388,Neutral,Neutral Comment
 3389,Happiness,Gratitude / Positive Feedback
-3390,Neutral,Suggestion / Idea
+3390,Happiness,Suggestion / Idea
 3391,Anger,Complaint / Dissatisfaction
 3392,Anger,Complaint / Dissatisfaction
 3393,Happiness,Gratitude / Positive Feedback
 3394,Anger,Complaint / Dissatisfaction
 3395,Happiness,Gratitude / Positive Feedback
 3396,Happiness,Gratitude / Positive Feedback
-3397,Neutral,Neutral Comment
+3397,Sadness,Suggestion / Idea
 3398,Happiness,Gratitude / Positive Feedback
 3399,Neutral,Neutral Comment
 3400,Happiness,Gratitude / Positive Feedback
 3401,Happiness,Gratitude / Positive Feedback
-3402,Anger,Complaint / Dissatisfaction
+3402,Happiness,Gratitude / Positive Feedback
 3403,Anger,Complaint / Dissatisfaction
 3404,Happiness,Gratitude / Positive Feedback
 3405,Happiness,Gratitude / Positive Feedback
-3406,Disgust,Complaint / Dissatisfaction
+3406,Anger,Complaint / Dissatisfaction
 3407,Happiness,Gratitude / Positive Feedback
 3408,Happiness,Gratitude / Positive Feedback
 3409,Happiness,Gratitude / Positive Feedback
@@ -3413,15 +3413,15 @@ index,emotion,category
 3411,Happiness,Gratitude / Positive Feedback
 3412,Happiness,Gratitude / Positive Feedback
 3413,Happiness,Gratitude / Positive Feedback
-3414,Sadness,Complaint / Dissatisfaction
-3415,Neutral,Neutral Comment
+3414,Happiness,Gratitude / Positive Feedback
+3415,Anger,Complaint / Dissatisfaction
 3416,Happiness,Gratitude / Positive Feedback
 3417,Anger,Complaint / Dissatisfaction
 3418,Anger,Complaint / Dissatisfaction
 3419,Happiness,Gratitude / Positive Feedback
-3420,Surprise,Question / Request for Help
+3420,Anger,Complaint / Dissatisfaction
 3421,Happiness,Gratitude / Positive Feedback
-3422,Surprise,Gratitude / Positive Feedback
+3422,Anger,Suggestion / Idea
 3423,Happiness,Gratitude / Positive Feedback
 3424,Happiness,Gratitude / Positive Feedback
 3425,Happiness,Gratitude / Positive Feedback
@@ -3432,7 +3432,7 @@ index,emotion,category
 3430,Anger,Complaint / Dissatisfaction
 3431,Happiness,Gratitude / Positive Feedback
 3432,Anger,Complaint / Dissatisfaction
-3433,Surprise,Gratitude / Positive Feedback
+3433,Happiness,Gratitude / Positive Feedback
 3434,Anger,Complaint / Dissatisfaction
 3435,Sadness,Complaint / Dissatisfaction
 3436,Happiness,Gratitude / Positive Feedback
@@ -3450,26 +3450,26 @@ index,emotion,category
 3448,Happiness,Gratitude / Positive Feedback
 3449,Happiness,Gratitude / Positive Feedback
 3450,Happiness,Gratitude / Positive Feedback
-3451,Anger,Complaint / Dissatisfaction
-3452,Sadness,Question / Request for Help
+3451,Happiness,Gratitude / Positive Feedback
+3452,Anger,Question / Request for Help
 3453,Happiness,Gratitude / Positive Feedback
 3454,Happiness,Gratitude / Positive Feedback
-3455,Surprise,Neutral Comment
+3455,Happiness,Gratitude / Positive Feedback
 3456,Happiness,Gratitude / Positive Feedback
 3457,Happiness,Gratitude / Positive Feedback
-3458,Sadness,Neutral Comment
-3459,Anger,Complaint / Dissatisfaction
+3458,Sadness,Suggestion / Idea
+3459,Happiness,Gratitude / Positive Feedback
 3460,Happiness,Gratitude / Positive Feedback
 3461,Happiness,Gratitude / Positive Feedback
 3462,Happiness,Gratitude / Positive Feedback
 3463,Happiness,Gratitude / Positive Feedback
-3464,Anger,Complaint / Dissatisfaction
+3464,Happiness,Gratitude / Positive Feedback
 3465,Happiness,Gratitude / Positive Feedback
 3466,Happiness,Gratitude / Positive Feedback
 3467,Happiness,Gratitude / Positive Feedback
 3468,Happiness,Gratitude / Positive Feedback
 3469,Anger,Complaint / Dissatisfaction
 3470,Happiness,Gratitude / Positive Feedback
-3471,Anger,Complaint / Dissatisfaction
+3471,Happiness,Suggestion / Idea
 3472,Happiness,Gratitude / Positive Feedback
 3473,Neutral,Question / Request for Help
