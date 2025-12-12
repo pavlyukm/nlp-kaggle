@@ -47,3 +47,5 @@ And got the following results:
 - Weights 0.30, 0.20, 0.50 -> F1: 0.9687
 
 Overall weights did not matter as much, and this got me my best 0.7 Kaggle test submission.
+
+I have also added the code to classify this data with QWEN, but I will only make a submission after competition deadline is through.
